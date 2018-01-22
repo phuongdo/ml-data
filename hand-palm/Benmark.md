@@ -17,7 +17,7 @@ DEBUG:
 
 * test-pos: `https://github.com/phuongdo/ml-data/tree/master/hand-palm/test-pos`
 ```
-URL																							Label		Wrong
+URL	Label	Wrong
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_001.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_002.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_003.jpg	positive
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG
 * test-neg:`https://github.com/phuongdo/ml-data/tree/master/hand-palm/test-neg`
 
 ```
-URL																							Label		Wrong
+URL	Label	Wrong
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_001.jpg	negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_002.jpg	negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_003.jpg	positive	x
@@ -115,7 +115,7 @@ https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG
 * Sensitive cases:
 
 ```
-URL																							Label		Wrong
+URL	Label	Wrong
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_001.jpg	negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_002.jpg	negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_003.jpg	negative
