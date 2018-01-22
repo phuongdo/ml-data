@@ -1,7 +1,7 @@
 import os
 import sys
 
-directoryName = "test-sen"
+directoryName = "test-neg"
 filePath = os.path.abspath(directoryName)
 filePathWithSlash = filePath + "/"
 for counter, filename in enumerate(os.listdir(directoryName)):
