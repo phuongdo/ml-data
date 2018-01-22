@@ -3,21 +3,17 @@
 
 ## Model 01 TestDate: 22/01/2018
 
-Overall:
-Positive: 24 imgs
-Negatives :  24 imgs
+Overall: (Positives: 24 imgs, Negatives :  24 imgs)
 
-TP: 14
-FP: 8
-FN : 9
-TN : 13
-
-Sensitivity: TP/(TP+FN) = 	60.87%	
-Specificity:  TN/(FP+ TN) = 61.90%	
-Accuracy : 61.36% 
+* TP: 14, FP: 8, FN : 9, TN : 13
+* Sensitivity: TP/(TP+FN) = 	`60.87%`
+* Specificity:  TN/(FP+ TN) = `61.90%`	
+* Accuracy : `61.36%` 
 
 
 See: https://www.medcalc.org/calc/diagnostic_test.php
+
+DEBUG:
 
 * test-post: `https://github.com/phuongdo/ml-data/tree/master/hand-palm/test-pos`
 ```
@@ -75,4 +71,5 @@ https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_023.jpg:negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_024.jpg:negative
 ```
+
 
