@@ -1,14 +1,14 @@
 # Benchmark
 
 
-## Model 02 - 50steps TestDate: 23/01/2018
+## Model 04 - 50steps TestDate: 23/01/2018
 
 Overall: (Positives: 24 imgs, Negatives :  62 imgs)
 
 * TP: 13, FP: 11, FN : 4, TN : 58
-* Sensitivity: TP/(TP+FN) = 	`41.18%`
-* Specificity:  TN/(FP+ TN) = `84.00%`	
-* Accuracy : `66.67%` 
+* Sensitivity: TP/(TP+FN) = 	`75.00%`
+* Specificity:  TN/(FP+ TN) = `82.86%`	
+* Accuracy : `81.40%` 
 
 
 See: https://www.medcalc.org/calc/diagnostic_test.php
@@ -19,7 +19,7 @@ DEBUG:
 ```
 URL	Label	Wrong
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_001.jpg	positive
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_002.jpg	positive
+https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_002.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_003.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_004.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_005.jpg	positive
@@ -31,17 +31,18 @@ https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_011.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_012.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_013.jpg	negative	x
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_014.jpg	negative	x
+https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_014.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_015.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_016.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_017.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_018.jpg	positive
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_019.jpg	positive
+https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_019.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_020.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_021.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_022.jpg	negative	x
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_023.jpg	positive
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-pos/IMG_024.jpg	negative	x
+
 ```
 
 * test-neg:`https://github.com/phuongdo/ml-data/tree/master/hand-palm/test-neg`
@@ -110,22 +111,6 @@ https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_060.jpg	negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_061.jpg	negative
 https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-neg/IMG_062.jpg	negative
-```
-
-* Sensitive cases:
 
 ```
-URL	Label	Wrong
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_001.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_002.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_003.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_004.jpg	positive	x
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_005.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_006.jpg	positive	x
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_007.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_008.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_009.jpg	negative
-https://raw.githubusercontent.com/phuongdo/ml-data/master/hand-palm/test-sen/IMG_010.jpg	negative
-```
-
 
