@@ -1,0 +1,1690 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><title>
+	ATFood.vn - Sạch Từ Tâm
+</title><meta name="description" /><meta name="keywords" content="Trang chủ" /><link rel="alternate" hreflang="x-default" href="http://atfood.vn/default.html" />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="ATFood.vn - Sạch Từ Tâm" /><meta itemprop="description" /><meta itemprop="image" content="http://atfood.vn" />
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="ATFood.vn - Sạch Từ Tâm" /><meta property="og:url" content="http://atfood.vn/default.html" /><meta property="og:image" content="http://atfood.vn" /><meta property="og:description" /><meta property="og:site_name" content="atfood.vn" /><meta property="fb:app_id" content="1823433164612090" /><meta property="og:type" name="og_type" content="article" /><meta property="og:locale:alternate" content="vi_VN" /><meta property="article:author" content="https://www.facebook.com/atfood.vn/" /><meta property="article:publisher" content="https://www.facebook.com/atfood.vn/" /><meta name="viewport" content="width=device-width,initial-scale=1, user-scalable= no" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta name="author" content="atfood.vn" /><meta name="copyright" content="Copyright © 2015 atfood.vn" /><meta name="generator" content="webviet24h.com" /><meta name="language" content="vietnamese" /><meta name="geo.region" content="Vietnamese" /><meta name="revisit-after" content="1 days" /><meta name="robots" content="index,follow" /><link href="/Content/skins/images/favicon.png" rel="shortcut icon" type="image/x-icon" />
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript"> window.jQuery || document.write('<script src="//code.jquery.com/jquery-3.1.1.min.js">\x3C/script>')</script>
+    <script type="text/javascript"> window.jQuery || document.write('<script src="/Content/js/jquery.min.js">\x3C/script>')</script>
+
+    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <link type="text/css" href="/Content/utils/zebradialog/default/v-636188269010460518/zebradialog.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="/Content/js/v-636188268883008294/jquery.sticky.js"></script>
+    <script type="text/javascript" src="/Content/js/v-636188268884880297/popup.js"></script>
+
+    <script type="text/javascript" src="/Content/utils/owl.carousel/v-636188269007964513/owl.carousel.js"></script>
+    <link type="text/css" href="/Content/utils/owl.carousel/v-636197040658457941/owl.carousel.css" rel="stylesheet" />
+    <link type="text/css" href="" rel="stylesheet" />
+
+    <script type="text/javascript" src="/Content/utils/menulink/v-636188268992520486/jquery.mmenu.min.all.js"></script>
+    <link type="text/css" href="/Content/utils/menulink/v-636189926082651284/jquery.mmenu.all.css" rel="stylesheet" />
+
+    <link type="text/css" href="/Content/utils/fancybox/v-636188269003752506/jquery.fancybox.css" rel="stylesheet" media="screen" />
+    <script type="text/javascript" src="/Content/utils/fancybox/v-636188269006404511/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="/Content/js/v-636192994283242320/jwplayer.js"></script>
+    <script type="text/javascript">jwplayer.key = "bmYhK/6mW299S1kjNJFsA7IAuEIajluMDteXkg==";</script>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    <script type="text/javascript" src="/Content/js/v-636264857815256013/library.js"></script>
+    <link rel="stylesheet" href="/Content/skins/v-636241362509749715/style.css" type="text/css" media="all">
+</head>
+
+<body id="body">
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1823433164612090',
+                xfbml: true,
+                version: 'v2.8'
+            });
+        };
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+
+        <div class="Wrapper">
+            <header id="header" class="">
+                
+<section class="logos_top">
+    <div class="container">
+        <div class="thanhhoaGroup_logo">
+            <a href="http://thanhhoagroup.vn/" target="_blank" rel="nofollow"><img  alt="Thanh Hoa Group"  src="/Data/upload/images/anh%20logo/15.jpg" /></a>
+        </div>
+        <div class="slide_logo" id="owl_slide_logo">
+            
+            <div class="item_logo">
+                <a href="http://atfood.vn/" target="_blank" rel="nofollow"><img  alt="Thanh Hoa Sea Food"  src="/Data/upload/images/anh%20logo/123.jpg" /></a>
+            </div>
+            
+            <div class="item_logo">
+                <a href="http://atfood.vn/" target="_blank" rel="nofollow"><img  alt="Thanh Hoa Wood"  src="/Data/upload/images/anh%20logo/4.jpg" /></a>
+            </div>
+            
+            <div class="item_logo">
+                <a href="http://atfood.vn/" target="_blank" rel="nofollow"><img  alt="Thanh Hoa Bio"  src="/Data/upload/images/anh%20logo/2.jpg" /></a>
+            </div>
+            
+            <div class="item_logo">
+                <a href="http://atfood.vn/" target="_blank" rel="nofollow"><img  alt="Nasafood"  src="/Data/upload/images/Member/logo4.png" /></a>
+            </div>
+            
+            <div class="item_logo">
+                <a href="http://atfood.vn/" target="_blank" rel="nofollow"><img  alt="ATFood"  src="/Data/upload/images/anh%20logo/Logo%20Chuan.png"  width="100"  height="72" /></a>
+            </div>
+            
+            <div class="item_logo">
+                <a href="http://senxanh.net/" target="_blank" rel="nofollow"><img  alt="Commerce"  src="/Data/upload/images/anh%20logo/3.jpg" /></a>
+            </div>
+            
+            <div class="item_logo">
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+                <section class="header-top">
+                    <div class="container">
+           			      <div class="row">
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <ul class="list-ul-top fl">
+                                    
+<li><a href="http://atfood.vn/default.html">Trang chủ</a></li>
+
+<li><a href="http://atfood.vn/gioi-thieu.html">Giới thiệu</a></li>
+
+<li><a href="http://atfood.vn/hoi-dap.html">Hỏi đáp</a></li>
+
+<li><a href="http://atfood.vn/tuyen-dung.html">Tuyển Dụng</a></li>
+
+<li><a href="http://atfood.vn/danh-sach-cua-hang.html">Danh Sách Cửa Hàng</a></li>
+
+                                </ul>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                <ul class="list-ul-top fr">
+                                    
+                                    
+
+
+
+<li class="card 1">
+    
+        <a href="" title="" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-user"></i>Tài khoản</a> 
+    <div class="dropdown-menu dropdown-contact">
+        
+        <a href="/dang-ky-the.html" title="" class="item-list-top"><i class="fa fa-key"></i>Đăng ký</a>
+        <a href="/dang-nhap.html" title="" class="item-list-top"><i class="fa fa-user"></i>Đăng nhập</a>
+        
+    </div>
+</li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="fix_header">
+                    <section class="header-middle ">
+                        <div class="container">
+                            <div class="row">
+                                <div class="nav-btn-show fl hidden-lg hidden-md col-sm-3  col-xs-4">
+                                    <a href="#my-mobile-menu" class="sidebar-toggle"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                                </div>
+                                
+
+<div class="logo col-xs-8 col-sm-8  col-md-2  col-lg-2 ">
+    <a href="/" target="" rel="nofollow"><img  alt="Logo "  src="/Data/upload/images/anh%20logo/Logo%20Chuan.png" /></a>
+    
+</div>
+
+                                
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+    <div class="search-input-select all fAvantGarde">
+        <form method="post" onsubmit="doSearch(); return false;" name="search_form">
+            <div class="selectBox all">
+                <div class="selected">
+                    <span class="textdm" id="search_text">Tất cả danh mục</span>
+                    <input type="hidden" id="Menu" />
+                    <div class="selectOptions">
+                        
+                        <span class="selectOption" data-name="Đồ tươi sống" data-code="do-tuoi-song">Đồ tươi sống</span>
+                        
+                        <span class="selectOption" data-name="Sản phẩm khuyến mại" data-code="san-pham-khuyen-mai">Sản phẩm khuyến mại</span>
+                        
+                        <span class="selectOption" data-name="Đặc Sản" data-code="dac-san">Đặc Sản</span>
+                        
+                        <span class="selectOption" data-name="Thực phẩm khô" data-code="thuc-pham-kho">Thực phẩm khô</span>
+                        
+                        <span class="selectOption" data-name="Thực phẩm chế biến" data-code="thuc-pham-che-bien">Thực phẩm chế biến</span>
+                        
+                        <span class="selectOption" data-name="Thực phẩm truyền  thống" data-code="thuc-pham-truyen-thong">Thực phẩm truyền  thống</span>
+                        
+                    </div>
+                </div>
+                <input type="search" class="search-txt" name="keyword" id="keyword" autocomplete="off" placeholder="Nhập từ khóa tìm kiếm" />
+                <input type="submit" class="search-btn" onclick="doSearch(); return false;" value="Tìm kiếm" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="cart-phone col-xs-12 col-sm-12 col-md-4 col-lg-4 fAvantGarde pd0 hidden-xs">
+    <a href="javascript:void(0)" id="popup_cart_id" title="" data-toggle="modal" data-target="#popup-cart" class="bt-cart">
+        <span>Giỏ hàng của bạn<b>(0)</b></span>
+        <i>GH nhanh tại TP Thanh Hóa</i>
+    </a>
+     <a href="tel:0931.378.668" title="" class="bt-phone hidden-md hidden-sm hidden-xs">
+       <strong>0931.<b class="f120">378.668</b></strong>
+
+        <span>Gọi đặt hàng ngay</span>
+
+
+
+    </a>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $('.selectOptions .selectOption').click(function () {
+            $('#Menu').val($(this).data('code'));
+            $('.textdm').html($(this).data('name'));
+        })
+    });
+
+    function doSearch() {
+        var sURL = '';
+        var keyword = $('#keyword').val();
+
+        if (keyword.length < 2 || keyword == 'Nhập từ khóa tìm kiếm') {
+            zebra_alert('Thông báo!', 'Từ khóa phải nhiều hơn 1 ký tự.');
+            return;
+        }
+
+        if ($('#Menu').val() == '') {
+            zebra_alert('Thông báo!', 'Phải chọn một danh mục');
+            return;
+        }
+
+        location.href = encodeURI($('#Menu').val() + '.html?keyword=' + keyword);
+    }
+</script>
+
+                            </div>
+                        </div>
+                    </section>
+                    
+
+
+<nav class="wh-menu">
+    <div class="container">
+        <div id="mainMenu">
+            <ul class="navmenu">
+                
+                <li  >
+                    <a href="http://atfood.vn/do-tuoi-song.html">Đồ tươi sống</a>
+                    
+                    <ul class="submenu">
+                        
+                        <li><a href="http://atfood.vn/raucuqua.html">Rau-củ-quả</a></li>
+                        
+                        <li><a href="http://atfood.vn/thuy-hai-san.html">Thủy hải sản</a></li>
+                        
+                        <li><a href="http://atfood.vn/thit.html">Thịt</a></li>
+                        
+                        <li><a href="http://atfood.vn/trung.html">Trứng</a></li>
+                        
+                        <li><a href="http://atfood.vn/trai-cay-an-qua.html">Trái Cây Ăn Quả</a></li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/san-pham-khuyen-mai.html">Sản phẩm khuyến mại</a>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/dac-san.html">Đặc Sản</a>
+                    
+                    <ul class="submenu">
+                        
+                        <li><a href="http://atfood.vn/ga-doi.html">Gà đồi</a></li>
+                        
+                        <li><a href="http://atfood.vn/lon-man.html">Lợn mán</a></li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/thuc-pham-kho.html">Thực phẩm khô</a>
+                    
+                    <ul class="submenu">
+                        
+                        <li><a href="http://atfood.vn/thuc-pham-an-lien.html">Thực phẩm ăn liền</a></li>
+                        
+                        <li><a href="http://atfood.vn/dau-an.html">Dầu ăn</a></li>
+                        
+                        <li><a href="http://atfood.vn/gia-vi.html">Gia vị</a></li>
+                        
+                        <li><a href="http://atfood.vn/nong-san-kho.html">Nông sản khô</a></li>
+                        
+                        <li><a href="http://atfood.vn/banh-da-nembanh-trangphong-tom.html">Bánh đa nem,bánh tráng,phồng tôm</a></li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/thuc-pham-che-bien.html">Thực phẩm chế biến</a>
+                    
+                    <ul class="submenu">
+                        
+                        <li><a href="http://atfood.vn/gio-cha.html">Giò chả</a></li>
+                        
+                        <li><a href="http://atfood.vn/dau-phu.html">Đậu phụ</a></li>
+                        
+                        <li><a href="http://atfood.vn/nem.html">Nem</a></li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/thuc-pham-truyen-thong.html">Thực phẩm truyền  thống</a>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/tin-tuc-atfood.html">Tin tức ATFood</a>
+                    
+                    <ul class="submenu">
+                        
+                        <li><a href="http://atfood.vn/gioi-thieu.html">Giới thiệu</a></li>
+                        
+                        <li><a href="http://atfood.vn/tin-tuc-ve-atfood-va-thanh-hoa-group.html">Tin tức về ATFood và Thanh Hoa Group</a></li>
+                        
+                        <li><a href="http://atfood.vn/tin-thi-truong-nong-san-thuc-pham.html">Tin thị trường nông sản thực phẩm</a></li>
+                        
+                        <li><a href="http://atfood.vn/kien-thuc-suc-khoe.html">Kiến thức sức khỏe</a></li>
+                        
+                        <li><a href="http://atfood.vn/ho-tro-dich-vu-khach-hang.html">Hỗ trợ dịch vụ khách hàng</a></li>
+                        
+                        <li><a href="http://atfood.vn/huong-dan-mua-hang.html">Hướng dẫn mua hàng</a></li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li  >
+                    <a href="http://atfood.vn/dau-bep-atchef.html">Đầu bếp ATChef</a>
+                    
+                    <ul class="submenu">
+                        
+                        <li><a href="http://atfood.vn/mon-ngon-moi-ngay.html">Món Ngon Mỗi Ngày</a></li>
+                        
+                    </ul>
+                    
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+                </section>
+            </header>
+            <section id="slide" class="">
+                <div class="carousel slide " id="myCarousel" data-ride="carousel">
+                    
+
+
+<div class="carousel-inner" id="akr_home">
+    
+    <div class="item active">
+        <img  alt="slide 1"  src="/Data/upload/images/Product/%E1%BA%A3nh%201(1).jpg" />
+    </div>
+    
+    <div class="item ">
+        <img  alt="Slide 3"  src="/Data/upload/images/Product/%E1%BA%A3nh%202(1).jpg" />
+    </div>
+    
+</div>
+
+                    <div class="indicators-video-new">
+                        
+                    </div>
+                </div>
+            </section>
+            <div class="content-main mt10">
+                
+
+<section class="home-box all mb20 segment_1">
+    <div class="container">
+        <div class="list-home-top">
+            
+            <div class="item-cate col-xs-6 col-sm-6 col-md-3 col-lg-4 mb10">
+                <div class="bg-item-cate">
+                    <figure class="img">
+                        <a href="http://atfood.vn/do-tuoi-song.html">
+                            <img src="Data/upload/images/Product/thit(2).JPG" class="lazy"></a>
+                    </figure>
+                    <div class="product-title">
+                        <a href="http://atfood.vn/do-tuoi-song.html">
+                            <h3 class="ellipsis">Đồ tươi sống</h3>
+                            <span class="ellipsis">Xem ngay</span>
+                        </a>
+                    </div>
+                    <a href="http://atfood.vn/do-tuoi-song.html" class="alink-all" title="Đồ tươi sống"></a>
+                </div>
+            </div>
+            
+            <div class="item-cate col-xs-6 col-sm-6 col-md-3 col-lg-4 mb10">
+                <div class="bg-item-cate">
+                    <figure class="img">
+                        <a href="http://atfood.vn/san-pham-khuyen-mai.html">
+                            <img src="Data/upload/images/Product/khuy%E1%BA%BFn%20m%E1%BA%A1i.jpg" class="lazy"></a>
+                    </figure>
+                    <div class="product-title">
+                        <a href="http://atfood.vn/san-pham-khuyen-mai.html">
+                            <h3 class="ellipsis">Sản phẩm khuyến mại</h3>
+                            <span class="ellipsis">Xem ngay</span>
+                        </a>
+                    </div>
+                    <a href="http://atfood.vn/san-pham-khuyen-mai.html" class="alink-all" title="Sản phẩm khuyến mại"></a>
+                </div>
+            </div>
+            
+            <div class="item-cate col-xs-6 col-sm-6 col-md-3 col-lg-4 mb10">
+                <div class="bg-item-cate">
+                    <figure class="img">
+                        <a href="http://atfood.vn/dac-san.html">
+                            <img src="Data/upload/images/Product/%C4%91%E1%BA%B7c%20s%E1%BA%A3n.jpg" class="lazy"></a>
+                    </figure>
+                    <div class="product-title">
+                        <a href="http://atfood.vn/dac-san.html">
+                            <h3 class="ellipsis">Đặc Sản</h3>
+                            <span class="ellipsis">Xem ngay</span>
+                        </a>
+                    </div>
+                    <a href="http://atfood.vn/dac-san.html" class="alink-all" title="Đặc Sản"></a>
+                </div>
+            </div>
+            
+            <div class="item-cate col-xs-6 col-sm-6 col-md-3 col-lg-4 mb10">
+                <div class="bg-item-cate">
+                    <figure class="img">
+                        <a href="http://atfood.vn/thuc-pham-kho.html">
+                            <img src="Data/upload/images/Product/kh%C3%B4(1).jpg" class="lazy"></a>
+                    </figure>
+                    <div class="product-title">
+                        <a href="http://atfood.vn/thuc-pham-kho.html">
+                            <h3 class="ellipsis">Thực phẩm khô</h3>
+                            <span class="ellipsis">Xem ngay</span>
+                        </a>
+                    </div>
+                    <a href="http://atfood.vn/thuc-pham-kho.html" class="alink-all" title="Thực phẩm khô"></a>
+                </div>
+            </div>
+            
+            <div class="item-cate col-xs-6 col-sm-6 col-md-3 col-lg-4 mb10">
+                <div class="bg-item-cate">
+                    <figure class="img">
+                        <a href="http://atfood.vn/thuc-pham-che-bien.html">
+                            <img src="Data/upload/images/Product/gi%C3%B2(2).jpg" class="lazy"></a>
+                    </figure>
+                    <div class="product-title">
+                        <a href="http://atfood.vn/thuc-pham-che-bien.html">
+                            <h3 class="ellipsis">Thực phẩm chế biến</h3>
+                            <span class="ellipsis">Xem ngay</span>
+                        </a>
+                    </div>
+                    <a href="http://atfood.vn/thuc-pham-che-bien.html" class="alink-all" title="Thực phẩm chế biến"></a>
+                </div>
+            </div>
+            
+            <div class="item-cate col-xs-6 col-sm-6 col-md-3 col-lg-4 mb10">
+                <div class="bg-item-cate">
+                    <figure class="img">
+                        <a href="http://atfood.vn/thuc-pham-truyen-thong.html">
+                            <img src="Data/upload/images/Product/tt(1).jpg" class="lazy"></a>
+                    </figure>
+                    <div class="product-title">
+                        <a href="http://atfood.vn/thuc-pham-truyen-thong.html">
+                            <h3 class="ellipsis">Thực phẩm truyền  thống</h3>
+                            <span class="ellipsis">Xem ngay</span>
+                        </a>
+                    </div>
+                    <a href="http://atfood.vn/thuc-pham-truyen-thong.html" class="alink-all" title="Thực phẩm truyền  thống"></a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+                <section class="block_pro_home all">
+                    <div class="container">
+                        
+<section class="home-box product-new  mb20 fAvantGarde col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <div class="title-top">
+        <h3 class="txt"><a href="http://atfood.vn/san-pham-noi-bat.html">Sản phẩm nổi bật</a></h3>
+    </div>
+    <div class="bg-homebox">
+        <div class="list-pro-top" id="owl-list-pro-top">
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ga-ta-lai-choi-203.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636360743124258439/g__3x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Gà Ta Lai Chọi</h3>
+                            </span>
+                            <span class="push-text">Gà ta lai chọi thả vườn, giống gà Cao Khanh
+Được nuôi thủ công tại trang trại Thọ Trường Thọ Xuân
+Đã làm sạch và tặng kèm bộ lòng làm sạch</span>
+                            <span class="price push-text">
+                                <span itemprop="price">130.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ga-ta-lai-choi-203.html" class="alink-all" title="Gà Ta Lai Chọi"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ga-ta-lai-choi-203.html" title="Gà Ta Lai Chọi">Gà Ta Lai Chọi</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">130.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/thit-luon-ca-hoi-202.html">
+                            <img src="/Data/ResizeImage/files/v-636355625237571998/lu_o__n_ca__ho__i_2x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Thịt Lườn Cá Hồi</h3>
+                            </span>
+                            <span class="push-text"> Cá Hồi nhập khẩu nguyên con từ NAUY
+ Chế biến nghiêm ngặt theo quy chuẩn tại nhà máy của Công ty.
+ Giá trị dinh dưỡng cao.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">110.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/thit-luon-ca-hoi-202.html" class="alink-all" title="Thịt Lườn Cá Hồi"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/thit-luon-ca-hoi-202.html" title="Thịt Lườn Cá Hồi">Thịt Lườn Cá Hồi</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">110.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/thit-ca-hoi-phi-le-200.html">
+                            <img src="/Data/ResizeImage/files/v-636354742968339553/c__h_i_1x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Thịt Cá Hồi Phi Lê</h3>
+                            </span>
+                            <span class="push-text">Cá Hồi nhập khẩu nguyên con từ NAUY.
+Phi lê nghiêm ngặt theo quy chuẩn tại nhà máy của Công ty. 
+Cho ra những miếng Cá Hồi tươi rói đầy hấp dẫn.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">520.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/thit-ca-hoi-phi-le-200.html" class="alink-all" title="Thịt Cá Hồi Phi Lê"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/thit-ca-hoi-phi-le-200.html" title="Thịt Cá Hồi Phi Lê">Thịt Cá Hồi Phi Lê</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">520.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ca-thu-199.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636346713368656701/ca_thux500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cá Thu </h3>
+                            </span>
+                            <span class="push-text">Cá Thu tươi ngon, một con khoảng 5kg ở Cảng Hới Sầm Sơn Thanh Hóa 
+179.000đ/kg (cả con cá thu); 
+50.000đ/kg (đầu cá thu); 
+210.000đ/kg (mình cá thu)
+</span>
+                            <span class="price push-text">
+                                <span itemprop="price">179.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ca-thu-199.html" class="alink-all" title="Cá Thu "></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ca-thu-199.html" title="Cá Thu ">Cá Thu </a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">179.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ca-chua-da-lat-197.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636346713369536751/c__chua_1x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cà Chua Đà Lạt</h3>
+                            </span>
+                            <span class="push-text">Xuất xứ tại Đà Lạt
+Cà chua sạch được trồng theo tiêu chuẩn VietGAP
+Nhân viên công ty đến tận trang trại kiểm tra chất lượng và kiểm soát quá trình vận chuyển.
+Đảm bảo luôn tươi ngon mỗi ngày</span>
+                            <span class="price push-text">
+                                <span itemprop="price">29.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ca-chua-da-lat-197.html" class="alink-all" title="Cà Chua Đà Lạt"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ca-chua-da-lat-197.html" title="Cà Chua Đà Lạt">Cà Chua Đà Lạt</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">29.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/dua-hau-tron-soc-hau-giang-196.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636346713248739842/d_a_h_u_1x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Dưa Hấu Tròn Sọc Hậu Giang</h3>
+                            </span>
+                            <span class="push-text">Dưa hấu sọc tròn là đặc sản nổi tiếng của Tỉnh Hậu Giang được nhiều hợp tác xã liên kết với các công ty xuất nhập khẩu để đưa ra thị trường nước ngoài
+Dưa đỏ ruột, tươi và cực ngọt
+Dưa được nhân viên công ty ATfood trực tiếp kiểm tra chất lượng tại vườn và công ty kiểm soát vận chuyển</span>
+                            <span class="price push-text">
+                                <span itemprop="price">20.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/dua-hau-tron-soc-hau-giang-196.html" class="alink-all" title="Dưa Hấu Tròn Sọc Hậu Giang"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/dua-hau-tron-soc-hau-giang-196.html" title="Dưa Hấu Tròn Sọc Hậu Giang">Dưa Hấu Tròn Sọc Hậu Giang</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">20.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/dua-vang-kim-vuong-195.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636343532755097209/d_a_v_ng2x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Dưa Vàng Kim Vương</h3>
+                            </span>
+                            <span class="push-text">Dưa vàng Lam Sơn thì nhiều người đã nghe nổi tiếng là dưa sạch.
+Tên dưa là Dưa vàng Kim Vương (ruột sẽ có màu vàng cam đậm hơn dưa Kim Hoàng Hậu)
+Đảm bảo mới hái, luôn tươi ngon trong ngày. 
+Ruột dưa màu vàng, đặc ruột, vị ngọt dịu, quả dưa căng đẹp.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">37.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/dua-vang-kim-vuong-195.html" class="alink-all" title="Dưa Vàng Kim Vương"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/dua-vang-kim-vuong-195.html" title="Dưa Vàng Kim Vương">Dưa Vàng Kim Vương</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">37.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/tai-lon-sach-194.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636337259237099398/tai_l_n_2x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Tai Lợn Sạch</h3>
+                            </span>
+                            <span class="push-text">Tai lợn dai giòn, được các bà nội trợ sử dụng làm thành nhiều món ăn khác nhau như: món tai lợn bóp sổi, tai lợn trộn thính, tai lợn ngấm giấm… Những món ăn này được kết hợp từ thịt và rau nên dù ăn nhiều nhưng không cảm thấy ngấy, đặc biệt tai lợn rất phù hợp trong các bữa nhậu và tụ tập ban bè.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">80.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/tai-lon-sach-194.html" class="alink-all" title="Tai Lợn Sạch"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/tai-lon-sach-194.html" title="Tai Lợn Sạch">Tai Lợn Sạch</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">80.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/cam-sanh-hau-giang-191.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636337245046690473/cam_s_nh_2x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cam Sành Hậu Giang</h3>
+                            </span>
+                            <span class="push-text">Miệt vườn Hậu Giang chuyên cung cấp cam sành, dưa hấu loại 1 thượng hạng với quy trình nuôi trồng chăm sóc đảm bảo tiêu chuẩn VietGAP quốc gia.
+Nhân viên nhà ATfood đã vào miệt vườn từ đầu mùa, canh mãi lứa cam chín tới để chuyển về Thanh Hóa.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">46.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/cam-sanh-hau-giang-191.html" class="alink-all" title="Cam Sành Hậu Giang"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/cam-sanh-hau-giang-191.html" title="Cam Sành Hậu Giang">Cam Sành Hậu Giang</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">46.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/vai-thieu-thanh-ha-hai-duong-190.html">
+                            <img src="/Data/ResizeImage/images/v-636311494896752483/v_i_1x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Vải Thiều Thanh Hà Hải Dương</h3>
+                            </span>
+                            <span class="push-text">Vải thiều được trồng tại huyện Thanh Hà tỉnh Hải Dương
+Công ty Thanh Hoa kiểm soát chặt chẽ quy trình thu hoạch, vận chuyển, bảo quản.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">50.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/vai-thieu-thanh-ha-hai-duong-190.html" class="alink-all" title="Vải Thiều Thanh Hà Hải Dương"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/vai-thieu-thanh-ha-hai-duong-190.html" title="Vải Thiều Thanh Hà Hải Dương">Vải Thiều Thanh Hà Hải Dương</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">50.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/long-bo-uc-nguyen-bo-177.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636304444772582148/l_ng_b_x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Lòng Bò Úc (Nguyên Bộ)</h3>
+                            </span>
+                            <span class="push-text">Bò Úc sạch do Tổng công ty Thanh Hoa nhập khẩu bò trưởng thành và có kỹ sư chế biến đạt tiêu chuẩn của Úc.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">40.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/long-bo-uc-nguyen-bo-177.html" class="alink-all" title="Lòng Bò Úc (Nguyên Bộ)"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/long-bo-uc-nguyen-bo-177.html" title="Lòng Bò Úc (Nguyên Bộ)">Lòng Bò Úc (Nguyên Bộ)</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">40.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/gau-bo-uc-176.html">
+                            <img src="/Data/ResizeImage/images/adv/v-636304429498751321/g_u_b_x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Gàu Bò Úc</h3>
+                            </span>
+                            <span class="push-text">Thịt gàu bò (gầu bò là phần thịt được nằm ở ức và kéo dài xuống cổ bò, do nhai và nuốt nên đây là phần hoạt động nhiều của bò, xen kẽ khá nhiều lớp gân.
+Thịt bò sạch do Tổng công ty Thanh Hoa nhập khẩu bò trưởng thành và có kỹ sư chế biến đạt tiêu chuẩn của Úc.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">175.000 đ/kg</span>
+                                
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/gau-bo-uc-176.html" class="alink-all" title="Gàu Bò Úc"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/gau-bo-uc-176.html" title="Gàu Bò Úc">Gàu Bò Úc</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">175.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="home-box product-new  mb20 fAvantGarde col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <div class="title-top">
+        <h3 class="txt"><a href="http://atfood.vn/san-pham-khuyen-mai.html">Sản phẩm khuyến mại</a></h3>
+    </div>
+    <div class="bg-homebox">
+        <div class="list-pro-top" id="owl-list-pro-top2">
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/rau-day-124.html">
+                            <img src="/Data/ResizeImage/images/product/v-636295105782745219/rau__ayx500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Rau Đay</h3>
+                            </span>
+                            <span class="push-text">Xuất xứ tại trang trại rau sạch VietGAP của Tông công ty Thanh Hoa
+Quá trình trồng và chăm sóc được kiểm soát đúng quy trình chất lượng rau sạch
+Thu hoạch vào đúng thời gian nên rau ngọt, mềm không bị xơ.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">32.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/rau-day-124.html" class="alink-all" title="Rau Đay"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/rau-day-124.html" title="Rau Đay">Rau Đay</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">32.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/cai-ngong-123.html">
+                            <img src="/Data/ResizeImage/images/product/v-636295092605402074/c_i_ng_ngx500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cải Ngồng</h3>
+                            </span>
+                            <span class="push-text">Xuất xứ tại trang trại rau sạch VietGAP của Tông công ty Thanh Hoa
+Quá trình trồng và chăm sóc được kiểm soát đúng quy trình chất lượng rau sạch
+Thu hoạch vào đúng thời gian nên rau ngọt, mềm không bị xơ.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">12.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 20%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/cai-ngong-123.html" class="alink-all" title="Cải Ngồng"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/cai-ngong-123.html" title="Cải Ngồng">Cải Ngồng</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">12.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ruoc-bong-thit-lon-117.html">
+                            <img src="/Data/ResizeImage/images/product/v-636292435200728670/IMG_0743x500x500x4.JPG"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Ruốc Bông Thịt Lợn</h3>
+                            </span>
+                            <span class="push-text">Nguyên liệu làm ruốc bông từ thịt lợn sạch của công ty
+Đóng gói 100g - 200g - 300g mỗi gói
+Ghi rõ ngày sản xuất hạn sử dụng</span>
+                            <span class="price push-text">
+                                <span itemprop="price">350.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 8%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ruoc-bong-thit-lon-117.html" class="alink-all" title="Ruốc Bông Thịt Lợn"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ruoc-bong-thit-lon-117.html" title="Ruốc Bông Thịt Lợn">Ruốc Bông Thịt Lợn</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">350.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ca-trich-phi-le-109.html">
+                            <img src="/Data/ResizeImage/images/v-636276053495377938/Catrich2_jpg2x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cá Trích Phi Lê</h3>
+                            </span>
+                            <span class="push-text">Xuất xứ: Công ty CP XNK Thủy Sản Thanh Hóa trực thuộc Tổng Công ty Thanh Hoa
+Nuôi trồng và chế biến theo tiêu chuẩn XNK quốc tế
+Bảo quản lạnh trong ngày tại các cửa hàng
+Đóng gói: Có gói 0,5kg hoặc 1kg</span>
+                            <span class="price push-text">
+                                <span itemprop="price">50.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 16%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ca-trich-phi-le-109.html" class="alink-all" title="Cá Trích Phi Lê"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ca-trich-phi-le-109.html" title="Cá Trích Phi Lê">Cá Trích Phi Lê</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">50.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/gio-lon-nac-62.html">
+                            <img src="/Data/ResizeImage/images/v-636192349537714985/giolonx500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Giò Lợn Nạc</h3>
+                            </span>
+                            <span class="push-text">Xuất xứ: Sản phẩm chế biến tại Công ty Việt Hưng đạt chuẩn HACCP
+Không chất phụ gia, không chất bảo quản, là sản phẩm bán chạy nhất của Thanh Hoa Food
+Bảo quản: Bọc kín bỏ ngăn mát tủ lạnh nếu dùng liên tục, để lâu hơn hãy cấp đông cho sản phẩm.
+Đóng gói: Túi, khay.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">110.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/gio-lon-nac-62.html" class="alink-all" title="Giò Lợn Nạc"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/gio-lon-nac-62.html" title="Giò Lợn Nạc">Giò Lợn Nạc</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">110.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/cha-lon-61.html">
+                            <img src="/Data/ResizeImage/images/product/v-636292433837726257/IMG_0742x500x500x4.JPG"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Chả Lợn</h3>
+                            </span>
+                            <span class="push-text">Chả lợn được làm từ thịt nạc thăn hoặc mông lợn (đã được lọc hết mỡ) xay nhuyễn hoặc giã nhuyễn kết hơp với mắm và gia vị nên ăn rất đậm đà, thơm ngon. 
+Không chất phụ gia, không chất bảo quản
+Được nhiều người yêu thích</span>
+                            <span class="price push-text">
+                                <span itemprop="price">90.000 /kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 10%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/cha-lon-61.html" class="alink-all" title="Chả Lợn"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/cha-lon-61.html" title="Chả Lợn">Chả Lợn</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">90.000 /kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/rau-ngot-38.html">
+                            <img src="/Data/ResizeImage/images/v-636191256235041649/raungotx500x500x4.jpeg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Rau Ngót</h3>
+                            </span>
+                            <span class="push-text">Được trồng và chăm sóc theo quy trình đạt tiêu chuẩn VietGAP
+Cung cấp nhiều chất dinh dưỡng có lợi cho sức khỏe
+Dùng chế biến thành nhiều món ăn ngon, có tác dụng chữa bệnh</span>
+                            <span class="price push-text">
+                                <span itemprop="price">28.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/rau-ngot-38.html" class="alink-all" title="Rau Ngót"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/rau-ngot-38.html" title="Rau Ngót">Rau Ngót</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">28.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/bau-canh-13.html">
+                            <img src="/Data/ResizeImage/images/product/v-636290109243788285/bau2x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Bầu canh</h3>
+                            </span>
+                            <span class="push-text">Được trồng theo tiêu chuẩn Vietgat, tại trang trại rau an toàn.
+Chế biến được nhiều món ăn ngon.
+Cung cấp các chất dinh dưỡng cần thiết cho cơ thể.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">17.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/bau-canh-13.html" class="alink-all" title="Bầu canh"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/bau-canh-13.html" title="Bầu canh">Bầu canh</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">17.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="home-box product-new  mb20 fAvantGarde col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <div class="title-top">
+        <h3 class="txt"><a href="http://atfood.vn/san-pham-moi.html">Sản phẩm mới</a></h3>
+    </div>
+    <div class="bg-homebox">
+        <div class="list-pro-top" id="owl-list-pro-top3">
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/rau-cai-ngong-219.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494514458471240/c_ch_tr_ng_c_i_ng_ng_ng_t1x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Rau cải ngồng</h3>
+                            </span>
+                            <span class="push-text">Rau cải ngồng được sử dụng trong nhiều bữa ăn của người Việt.
+Được trồng tại trang trại rau nhà lưới của công ty tại 22 Cao Sơn, phường An Hoạch</span>
+                            <span class="price push-text">
+                                <span itemprop="price">10.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/rau-cai-ngong-219.html" class="alink-all" title="Rau cải ngồng"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/rau-cai-ngong-219.html" title="Rau cải ngồng">Rau cải ngồng</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">10.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/mam-cu-cai-trang-218.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494509266826046/rau_mam_cai_cu_trangx500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Mầm củ cải trắng</h3>
+                            </span>
+                            <span class="push-text">Trồng theo tiêu chuẩn Vietgap, không sử dụng hóa chất gây hại 
+Chế biến nhiều món ăn bổ dưỡng.
+Đạt tiêu chuẩn vệ sinh an toàn thực phẩm
+Liên hệ đặt hàng trước</span>
+                            <span class="price push-text">
+                                <span itemprop="price">58.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/mam-cu-cai-trang-218.html" class="alink-all" title="Mầm củ cải trắng"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/mam-cu-cai-trang-218.html" title="Mầm củ cải trắng">Mầm củ cải trắng</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">58.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/mam-cai-be-xanh-217.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494509267762048/rau_mam_cai_co_nang_suat_cao_nhat_de_trong_nhatx500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Mầm cải bẹ xanh</h3>
+                            </span>
+                            <span class="push-text">Trồng theo tiêu chuẩn Vietgap, không sử dụng hóa chất gây hại 
+Chế biến nhiều món ăn bổ dưỡng.
+Đạt tiêu chuẩn vệ sinh an toàn thực phẩm
+Liên hệ đặt hàng trước</span>
+                            <span class="price push-text">
+                                <span itemprop="price">62.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/mam-cai-be-xanh-217.html" class="alink-all" title="Mầm cải bẹ xanh"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/mam-cai-be-xanh-217.html" title="Mầm cải bẹ xanh">Mầm cải bẹ xanh</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">62.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/mam-dau-ha-lan-216.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494498220660449/mam_dau_ha_lanx500x500x4.jpeg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Mầm Đậu Hà Lan</h3>
+                            </span>
+                            <span class="push-text">Trồng theo tiêu chuẩn Vietgap, không sử dụng hóa chất gây hại 
+Chế biến nhiều món ăn bổ dưỡng.
+Đạt tiêu chuẩn vệ sinh an toàn thực phẩm
+Liên hệ đặt hàng trước</span>
+                            <span class="price push-text">
+                                <span itemprop="price">55.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/mam-dau-ha-lan-216.html" class="alink-all" title="Mầm Đậu Hà Lan"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/mam-dau-ha-lan-216.html" title="Mầm Đậu Hà Lan">Mầm Đậu Hà Lan</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">55.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/mam-rau-muong-215.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494495213839137/mam_rau_muon_tai_nhax500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Mầm Rau Muống</h3>
+                            </span>
+                            <span class="push-text">Trồng theo tiêu chuẩn Vietgap, không sử dụng hóa chất gây hại 
+Chế biến nhiều món ăn bổ dưỡng.
+Đạt tiêu chuẩn vệ sinh an toàn thực phẩm</span>
+                            <span class="price push-text">
+                                <span itemprop="price">53.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/mam-rau-muong-215.html" class="alink-all" title="Mầm Rau Muống"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/mam-rau-muong-215.html" title="Mầm Rau Muống">Mầm Rau Muống</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">53.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ngon-rau-khoai-lang-214.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494495214775139/ngon_rau_khoai_langx500x500x4.jpeg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Ngọn Rau Khoai Lang</h3>
+                            </span>
+                            <span class="push-text">Ngọn khoai lang ngoài vai trò làm thức ăn, còn là một loại thuốc chữa được khá nhiều bệnh thông thường.
+Được sử dụng trong nhiều bữa ăn của người Việt.
+Được trồng tại trang trại rau nhà lưới của công ty tại 22 Cao Sơn, phường An Hoạch</span>
+                            <span class="price push-text">
+                                <span itemprop="price">17.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ngon-rau-khoai-lang-214.html" class="alink-all" title="Ngọn Rau Khoai Lang"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ngon-rau-khoai-lang-214.html" title="Ngọn Rau Khoai Lang">Ngọn Rau Khoai Lang</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">17.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ca-xanh-213.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494466748658849/ca_xanhx500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cà xanh</h3>
+                            </span>
+                            <span class="push-text">Liên hệ đặt hàng</span>
+                            <span class="price push-text">
+                                <span itemprop="price">40.000 /kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ca-xanh-213.html" class="alink-all" title="Cà xanh"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ca-xanh-213.html" title="Cà xanh">Cà xanh</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">40.000 /kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/dau-dua-212.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494462186742750/dau_duax500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Đậu đũa</h3>
+                            </span>
+                            <span class="push-text">Được trồng và chăm sóc theo quy trình đạt tiêu chuẩn VietGAP
+Cung cấp nhiều chất dinh dưỡng cho sức khỏe.</span>
+                            <span class="price push-text">
+                                <span itemprop="price">28.000 /kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/dau-dua-212.html" class="alink-all" title="Đậu đũa"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/dau-dua-212.html" title="Đậu đũa">Đậu đũa</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">28.000 /kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/dau-xanh-tach-vo-211.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494455489170959/dau_xanh_boc_vox500x500x4.jpeg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Đậu xanh tách vỏ </h3>
+                            </span>
+                            <span class="push-text">Xuất xứ: Hưng Yên
+Khối lượng: 200g
+Hạn dùng: in trên bao bì
+</span>
+                            <span class="price push-text">
+                                <span itemprop="price">15.000 /gói 200g</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/dau-xanh-tach-vo-211.html" class="alink-all" title="Đậu xanh tách vỏ "></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/dau-xanh-tach-vo-211.html" title="Đậu xanh tách vỏ ">Đậu xanh tách vỏ </a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">15.000 /gói 200g</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/dau-xanh-vo-doi-con-vo-210.html">
+                            <img src="/Data/ResizeImage/images/product/v-636494452181749104/dau_xanh_vo_hat1x500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Đậu xanh vỡ đôi còn vỏ</h3>
+                            </span>
+                            <span class="push-text">Xuất xứ: Hưng Yên
+Khối lượng: 200g
+Hạn dùng: in trên bao bì
+</span>
+                            <span class="price push-text">
+                                <span itemprop="price">15.000 /gói 200g</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/dau-xanh-vo-doi-con-vo-210.html" class="alink-all" title="Đậu xanh vỡ đôi còn vỏ"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/dau-xanh-vo-doi-con-vo-210.html" title="Đậu xanh vỡ đôi còn vỏ">Đậu xanh vỡ đôi còn vỏ</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">15.000 /gói 200g</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/mam-cu-cai-do-208.html">
+                            <img src="/Data/ResizeImage/images/product/v-636493778686953334/mam_cu_cai_dox500x500x4.jpeg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Mầm củ cải đỏ</h3>
+                            </span>
+                            <span class="push-text">Trồng theo tiêu chuẩn Vietgap, không sử dụng hóa chất gây hại 
+Chế biến nhiều món ăn bổ dưỡng.
+Đạt tiêu chuẩn vệ sinh an toàn thực phẩm
+Liên hệ đặt hàng trước</span>
+                            <span class="price push-text">
+                                <span itemprop="price">73.000 đ/kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/mam-cu-cai-do-208.html" class="alink-all" title="Mầm củ cải đỏ"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/mam-cu-cai-do-208.html" title="Mầm củ cải đỏ">Mầm củ cải đỏ</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">73.000 đ/kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item-pro">
+                <div class="bg-item-pro">
+                    <figure class="hm-reponsive">
+                        <a href="http://atfood.vn/ca-phao-207.html">
+                            <img src="/Data/ResizeImage/images/product/v-636493629784150602/ca_phaox500x500x4.jpg"></a>
+                        <div class="bginfo">
+                            <span class="push-col_title">
+                                <h3 class="text-link">Cà Pháo</h3>
+                            </span>
+                            <span class="push-text">Được trồng tự nhiên, không sử dụng hóa chất gây hại
+Chế biến được nhiều món ăn ngon
+Đạt tiêu chuẩn vệ sinh an toàn thực phẩm
+</span>
+                            <span class="price push-text">
+                                <span itemprop="price">20.000 /kg</span>
+                            </span>
+                            <span class="label-text push-text">Giá đã giảm 0%</span>
+                            <span class="more-button"><i class="fa fa-caret-right"></i>Xem thêm</span>
+                            <a href="http://atfood.vn/ca-phao-207.html" class="alink-all" title="Cà Pháo"></a>
+                        </div>
+                    </figure>
+                    <div class="product-item_info">
+                        <h3><a href="http://atfood.vn/ca-phao-207.html" title="Cà Pháo">Cà Pháo</a></h3>
+                        <div class="price-box">
+                            <span class="c-price all">20.000 /kg</span>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+                    </div>
+                </section>
+            </div>
+            <!-- / content-main-->
+            <footer id="footer">
+                <section class="footer-top fAvantGarde">
+                    <div class="container">
+                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                            <div class="row">
+                                <div class="newsticker-list">
+                                    <a href="" class="txt">ĐĂNG KÝ NHẬN THÔNG TIN KHUYỄN MẠI</a>
+<p class="thankssummary">Thông tin của bạn được giữ kín tuyệt đối, và có thể hủy đăng ký bất cứ lúc nào. Đăng ký ngay để nhận nhiều ưu đãi hơn</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+    <form class="subscribe-form" method="post" name="subscribe_footer_form" action="/">
+        <div class="input-group">
+            <input type="text" class="form-control ipt-search" name="Email" value="" placeholder="Nhập email của bạn tại đây..">
+            <span class="input-group-btn">
+                <button class="btn bt-search" onclick="document.subscrib_footer_form.submit()" type="submit"><i class="fa fa-envelope"></i></button>
+                <input type="submit" name="_vsw_action[CStatic-AddPost-Subscribe]" style="display: none" />
+                <input type="hidden" name="_vsw_action[CStatic-AddPost-Subscribe]" />
+            </span>
+        </div>
+    </form>
+</div>
+
+                        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+                            <div class="row">
+                                <div class="newsticker-list">
+                                    <a href="" class="txtApp1"><i class="fa fa-apple"></i></a>
+<a href="" class="txtApp"><i class="fa fa-android"></i></a>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <section class="footer-center fAvantGarde">
+                    <div class="container">
+                        <ul class="mf-listmn">
+                            
+
+<li class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
+    <h3 class="heading"><a href="http://atfood.vn/ve-cong-ty.html">Về công ty</a> </h3>
+    <div class="bg-ft">
+        <ul class="list-mn">
+            
+            <li><a href="http://atfood.vn/hop-tac.html">Tuyển Dụng</a></li>
+            
+        </ul>
+    </div>
+</li>
+
+                            
+
+<li class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+    <h3 class="heading"><a href="http://atfood.vn/cham-soc-khach-hang.html">Chăm sóc khách hàng</a> </h3>
+    <div class="bg-ft">
+        <ul class="list-mn">
+            
+            <li><a href="http://atfood.vn/trung-tam-ho-tro-khach-hang.html">Trung tâm hỗ trợ khách hàng</a></li>
+            
+            <li><a href="http://atfood.vn/chinh-sach-giao-hang-va-nhan-hang.html">Chính sách giao hàng và nhận hàng</a></li>
+            
+            <li><a href="http://atfood.vn/chinh-sach-thanh-toan.html">Chính sách thanh toán</a></li>
+            
+            <li><a href="http://atfood.vn/chinh-sach-bao-mat.html">Chính sách bảo mật </a></li>
+            
+            <li><a href="http://atfood.vn/chinh-sach-doi-tra.html">Chính sách đổi trả</a></li>
+            
+            <li><a href="http://atfood.vn/khach-hang-gui-cam-nhan.html">Khách hàng gửi cảm nhận</a></li>
+            
+        </ul>
+    </div>
+</li>
+
+                            
+
+<li class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
+    <h3 class="heading"><a href="http://atfood.vn/tai-khoan.html">Tài khoản</a> </h3>
+    <div class="bg-ft">
+        <ul class="list-mn">
+            
+            <li><a href="http://atfood.vn/quan-ly-tai-khoan.html">Quản lý tài khoản</a></li>
+            
+            <li><a href="http://atfood.vn/quan-ly-don-hang.html">Quản lý đơn hàng</a></li>
+            
+        </ul>
+    </div>
+</li>
+
+                            <li class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
+                                <h3 class="heading">Liên kết trang web</h3>
+                                <div class="bg-ft">
+                                    <ul class="list-mn">
+                                        <li><a href="http://atfood.vn/">ThanhhoaGroup</a></li>
+<li><a href="http://hasuvimex.vn">hasuvimex.vn</a></li>
+<li><a href="http://atfood.vn/"> Việt Hưng</a></li>
+<li><a href="http://atfood.vn/">NasaFood </a></li>
+<li><a href="http://atfood.vn/">truongsonwood</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            
+
+<li class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+    <h3 class="heading"><a>Kết Nối với chúng tôi</a> </h3>
+    <div class="bg-ft">
+        <p>LIKE để nhận ưu đãi mới nhất, sớm nhất</p>
+        <div class="text-left">
+           <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/atfood.vn/"><i class="fa fa-facebook"></i></a>
+<a class="btn btn-social-icon btn-google-plus" href="https://www.youtube.com/watch?v=k9a9hwIep34"><i class="fa fa-google-plus"></i></a>
+<a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/watch?v=k9a9hwIep34"><i class="fa fa-youtube"></i></a>
+<a class="btn btn-social-icon btn-twitter" href="https://www.youtube.com/watch?v=k9a9hwIep34"><i class="fa fa-twitter"></i></a>
+        </div>
+    </div>
+</li>
+
+                        </ul>
+                    </div>
+                </section>
+                <section class="footer-bottom fAvantGarde">
+                    <div class="container">
+                        <div class="row">
+                            <div class=" copy col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                          © 2016 Thanh Hoa Group. Website http://atfood.vn/<br>
+                                VPC: Số 22 Cao Sơn - P. An Hoạch - Tp.Thanh Hóa(Qua Cầu Cao) - Hotline:  02373 626969.
+                           
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-right">
+                                
+
+
+Online: 1<br />
+Lượt truy cập: 179.854
+ 
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </footer>
+        </div>
+        <div class="back-to-top"><a href="javascript:;"><span class="fa fa-angle-up fa-2x"></span></a></div>
+        
+        
+
+<div class="modal fade popup-cart fAvantGarde in" id="popup-cart" role="dialog">
+    <div class="modal-dialog">
+        <button type="button" class="close" data-dismiss="modal"></button>
+        <div class="modal-content body-popup-cart">
+            <div class="header-pop"><strong>Giỏ hàng</strong> </div>
+            <div class="giohang">
+                <div class="content-pop">
+                    <div class="notify-cart">
+                        <span class="fa fa-check"></span>Có 0 sản phẩm trong giỏ hàng của bạn
+                    </div>
+                </div>
+                <div class="main-popup-cart clear">
+                    <div class="listItemCart">
+                        
+                        <div class="total-payment">
+                            <strong class="price">Tổng thanh toán :</strong>
+                            <strong class="price">0 ₫</strong>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer-pop">
+                    <div class="bt-option-pop-cart">
+                        <a href="" title="Giỏ hàng của bạn" class="btn btn-default fl hidden-xs" rel="nofollow">Tiếp tục mua hàng</a>
+                        <a href="/gio-hang.html" title="Thanh toán" class="btn btn-success fr" rel="nofollow">Thanh toán</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+</body>
+</html>
+
+<!-- Copyright © by http://webviet24h.com -->

@@ -1,0 +1,1664 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Chùa A Di Đà
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" type="text/css" href="/css/library.css" />
+	<!-- js thư viện -->
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script> 
+	<!-- js cho slide trên BANNER & "CHÂN DUNG TĂNG GIÀ" nằm bên cột phải -->
+	<script src="/css/slider/modernizr.custom.js" type="text/javascript"></script>
+	<script src="/css/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<!-- js cho các tab nằm bên cột phải -->
+	<script src="/css/tabs-mp3/jquery.easytabs.min.js" type="text/javascript"></script>	
+      <!-- js cho slide phần TIN TỨC CHÍNH  -->
+	<script src="/css/news-slider/jquery.sliderPro.min.js" type="text/javascript"></script>
+<meta property="og:title" content="Chùa A Di Đà" /><meta property="og:image" content="http://chuaadida.com/css/skin/chuaadida.jpg" /><meta property="og:description" content="Website tin tức phật sự và các bài giảng, các chương trình ca nhạc, ký sự  Phật giáo" /><meta name="description" content="tin tức phật sự, các bài giảng, các chương trình ca nhạc, ký sự  Phật giáo" /><meta name="keywords" content="Website tin tức phật sự và các bài giảng, các chương trình ca nhạc, ký sự  Phật giáo" /></head>
+<body><script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.10&appId=1975232262748940";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="root">
+     <div id="bg-footer">
+	<div id="head">
+    	<div class="container">
+        	<div class="logo"></div>
+        	<div class="slide">
+            	<div class="flex-container">
+                    <div class="flexslider">
+                        <ul class="slides"> 
+                            <li><a  href="http://www." target="_blank" ><img src="/Images/Slide/Slide_Slide_Slide_bg-header.jpg" alt="http://www." /></a></li>
+                        
+                            <li><a ><img src="/Images/Slide/Slide_Slide_slide27.jpg" alt="" /></a></li>
+                        
+                            <li><a ><img src="/Images/Slide/Slide_Slide_slide.jpg" alt="" /></a></li>
+                        
+                            <li><a ><img src="/Images/Slide/Slide_Slide_slide10.jpg" alt="" /></a></li>
+                        
+                            <li><a ><img src="/Images/Slide/Slide_banner.jpg" alt="" /></a></li>
+                        
+                            <li><a  href="http://www." target="_blank" ><img src="/Images/Slide/Slide_a di da.jpg" alt="http://www." /></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navi">
+        	<div class="container container-navi">
+				<div class="menu-mb">
+					<div class="menu-header">
+						<div class="tt-name">chuaadida.com</div>
+						<div class="address">52 Bareena street, Canley Vale N.S.W 2166 Australia</div>
+					</div>
+					<ul class="sky-mega-menu">
+						<li><a href="/" title="chuaadida.com" ><i class="fa fa-home"></i></a></li>
+                        
+						<li><a  href="/tin-phat-giao/" title="Tin Phật Giáo" >Tin Phật Giáo<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/tin-vien-tich-tuong-niem/" title="Tin Viên Tịch & Tưởng Niệm"><i class="fa fa-caret-right"></i>Tin Viên Tịch & Tưởng Niệm</a></li>
+								
+									<li><a href="/phat-giao-voi-xa-hoi/" title="Phật Giáo Với Xã Hội"><i class="fa fa-caret-right"></i>Phật Giáo Với Xã Hội</a></li>
+								
+									<li><a href="/phat-giao-uc-tan-tay-lan/" title="Phật Giáo Úc - Tân Tây Lan"><i class="fa fa-caret-right"></i>Phật Giáo Úc - Tân Tây Lan</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a  href="/sinh-hoat-chua-a-di-da/" title="Sinh Hoạt Chùa A Di Đà" >Sinh Hoạt Chùa A Di Đà</a>
+							
+						</li>
+						<li><a  href="/phat-phap/" title="Phật Pháp" >Phật Pháp<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/nghi-le/" title="Nghi Lễ"><i class="fa fa-caret-right"></i>Nghi Lễ</a></li>
+								
+									<li><a href="/giao-ly/" title="Giáo Lý"><i class="fa fa-caret-right"></i>Giáo Lý</a></li>
+								
+									<li><a href="/bo-de-tam/" title="Bồ Đề Tâm"><i class="fa fa-caret-right"></i>Bồ Đề Tâm</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a  href="/lich-su-phat-giao/" title="Lịch Sử Phật Giáo" >Lịch Sử Phật Giáo<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/nghien-cuu-phat-giao/" title="Nghiên Cứu Phật Giáo"><i class="fa fa-caret-right"></i>Nghiên Cứu Phật Giáo</a></li>
+								
+									<li><a href="/nhan-vat/" title="Nhân - Vật"><i class="fa fa-caret-right"></i>Nhân - Vật</a></li>
+								
+									<li><a href="/phat-bo-tat-thanh-chung/" title="Phật - Bồ Tát - Thánh Chúng"><i class="fa fa-caret-right"></i>Phật - Bồ Tát - Thánh Chúng</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a  href="/tam-tang-kinh-dien/" title="Tam Tạng Kinh Điển" >Tam Tạng Kinh Điển<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/tranh-phat-giao/" title="Tranh Phật Giáo"><i class="fa fa-caret-right"></i>Tranh Phật Giáo</a></li>
+								
+									<li><a href="/sach-truyen-tich/" title="Sách - Truyện Tích"><i class="fa fa-caret-right"></i>Sách - Truyện Tích</a></li>
+								
+									<li><a href="/nhung-loi-phat-day/" title="Những Lời Phật Dạy"><i class="fa fa-caret-right"></i>Những Lời Phật Dạy</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a  href="/chuyen-de/" title="Chuyên Đề" >Chuyên Đề<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/xuan-cua-thien/" title="Xuân Cửa Thiền"><i class="fa fa-caret-right"></i>Xuân Cửa Thiền</a></li>
+								
+									<li><a href="/phat-dan-an-cu/" title="Phật Đản - An Cư"><i class="fa fa-caret-right"></i>Phật Đản - An Cư</a></li>
+								
+									<li><a href="/vu-lan/" title="Vu Lan"><i class="fa fa-caret-right"></i>Vu Lan</a></li>
+								
+									<li><a href="/phap-khi/" title="Pháp Khí"><i class="fa fa-caret-right"></i>Pháp Khí</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a  href="/van-hoa-phat-giao/" title="Văn Hóa Phật Giáo" >Văn Hóa Phật Giáo<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/thi-ca-cham-ngon-sang-tac/" title="Thi Ca - Châm Ngôn - Sáng Tác"><i class="fa fa-caret-right"></i>Thi Ca - Châm Ngôn - Sáng Tác</a></li>
+								
+									<li><a href="/kien-truc/" title="Kiến Trúc"><i class="fa fa-caret-right"></i>Kiến Trúc</a></li>
+								
+									<li><a href="/tu-vien/" title="Tự Viện"><i class="fa fa-caret-right"></i>Tự Viện</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a  href="/mon-phong-phap-phai/" title="Môn Phong Pháp Phái" >Môn Phong Pháp Phái<i class="fa fa-indicator fa-chevron-down"></i></a>
+							<div class="grid-container3">
+								<ul>
+									<li><a href="/ngu-luc/" title="NGỮ LỤC"><i class="fa fa-caret-right"></i>NGỮ LỤC</a></li>
+								
+									<li><a href="/giai-thoai-nha-thien/" title="Giai Thoại Nhà Thiên"><i class="fa fa-caret-right"></i>Giai Thoại Nhà Thiên</a></li>
+								
+									<li><a href="/to-su/" title="Tổ Sư"><i class="fa fa-caret-right"></i>Tổ Sư</a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+					<div class="menu-footer">
+						<div class="tt-footer">Thông tin liên hệ</div>
+						<p>Tel: <a href="tel:(+02) 87046317">(+02) 87046317</a></p>
+						<p>Email:  <a href="mailto:chuaadida1@gmail.com - chuaadida@ymail.com">chuaadida1@gmail.com - chuaadida@ymail.com</a> </p>
+					</div>
+				</div>
+                <div class="newsbar">
+                    <div class="newshot">
+						<div class="btn-nav" role="button"><i class="fa fa-navicon"></i></div>
+						<a role="button" class="toggle-s fa fa-search"></a>
+                    	<h3><script src="/js/date_vn.js" type="text/javascript"></script> <i class="fa fa-bookmark"></i></h3><marquee width="560" height="33" scrollamount="3" direction="left" behavior="scoll" onmouseout="this.start();" onmouseover="this.stop();">chuaadida.com Kính chào chư Tôn đức, Quí nam nữ Phật tử, Quí thiện trí thức gần xa, Kính chúc Qúy vị An Lành - Phát nguyện: Nổ lực tinh tấn tu hành giải thoát thân tâm khỏi vòng sanh tử. 
+KÍNH CHÚC CHƯ TÔN ĐỨC, QUÍ NAM NỮ PHẬT TỬ, QUÍ THIỆN TRÍ THỨC, QUÍ ĐỘC GIẢ GẦN XA, THÂN TÂM AN LẠC, VẠN SỰ KIẾT TƯỜNG NHƯ Ý</marquee>
+                        <div class="boxSearch">
+                            <input type="text" placeholder="Tìm kiếm" class="textSearch" id="txtKeySearch" />	<a class="btnSearch" title="" onclick="fSearch('txtKeySearch')" id="btnSearch" style="cursor:pointer">Tìm</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="layout">
+    	<div class="container">
+        	<div class="content">
+                <div class="layoutleft">
+                     <!-- slide mới -->
+                	<div id="newsslider" class="slider-pro">
+						<div class="sp-slides">
+                            
+							<div class="sp-slide">
+								<a href="/chi-tiet-tin-nhan-noel-va-trach-nhiem-nguoi-phat-tu-9628/" title="Tin nhắn Noel và trách nhiệm người Phật tử">
+								<img class="sp-image" src="/Images/News/chuaadida_full_tin-nhan-noel-va-trach-nhiem-nguoi-phat-tu.jpg"  alt="Tin nhắn Noel và trách nhiệm người Phật tử"/>			
+								<div class="sp-caption">Tin nhắn Noel và trách nhiệm người Phật tử</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc-9627/" title="4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học">
+								<img class="sp-image" src="/Images/News/chuaadida_full_49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc.jpeg"  alt="4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học"/>			
+								<div class="sp-caption">4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-tung-kinh-giup-giam-stress-9626/" title="Tụng kinh giúp giảm stress">
+								<img class="sp-image" src="/Images/News/chuaadida_full_tung-kinh-giup-giam-stress.jpg"  alt="Tụng kinh giúp giảm stress"/>			
+								<div class="sp-caption">Tụng kinh giúp giảm stress</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet-9625/" title="Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt">
+								<img class="sp-image" src="/Images/News/chuaadida_full_khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet.jpg"  alt="Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt"/>			
+								<div class="sp-caption">Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-moi-quan-he-tuong-tac-giua-nghe-thuat-phat-giao-nhat-ban-va-trung-quoc-9622/" title="Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc">
+								<img class="sp-image" src="/Images/News/chuaadida_full_moi-quan-he-tuong-tac-giua-nghe-thuat-phat-giao-nhat-ban-va-trung-quoc.jpg"  alt="Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc"/>			
+								<div class="sp-caption">Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-gap-duoc-phat-phap-la-kho-9621/" title="Gặp được Phật pháp là khó">
+								<img class="sp-image" src="/Images/News/chuaadida_full_gap-duoc-phat-phap-la-kho.jpg"  alt="Gặp được Phật pháp là khó"/>			
+								<div class="sp-caption">Gặp được Phật pháp là khó</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-pháp-luạn-9620/" title="Pháp luận">
+								<img class="sp-image" src="/Images/News/chuaadida_full_pháp-luạn.jpg"  alt="Pháp luận"/>			
+								<div class="sp-caption">Pháp luận</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-duoc-lam-nguoi-la-kho-9619/" title="Được làm người là khó">
+								<img class="sp-image" src="/Images/News/chuaadida_full_duoc-lam-nguoi-la-kho.jpg"  alt="Được làm người là khó"/>			
+								<div class="sp-caption">Được làm người là khó</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-hoa-ky-hoi-thao-cua-hoi-phat-tu-khu-vuc-new-york-9618/" title="Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York">
+								<img class="sp-image" src="/Images/News/chuaadida_full_hoa-ky-hoi-thao-cua-hoi-phat-tu-khu-vuc-new-york.jpg"  alt="Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York"/>			
+								<div class="sp-caption">Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York</div>
+								</a>
+							</div>
+							<div class="sp-slide">
+								<a href="/chi-tiet-khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do-9617/" title="Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ">
+								<img class="sp-image" src="/Images/News/chuaadida_full_khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do.jpg"  alt="Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ"/>			
+								<div class="sp-caption">Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ</div>
+								</a>
+							</div>
+						</div>						
+						<div class="sp-thumbnails">
+                            
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_tin-nhan-noel-va-trach-nhiem-nguoi-phat-tu.jpg"  alt="Tin nhắn Noel và trách nhiệm người Phật tử"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-tin-nhan-noel-va-trach-nhiem-nguoi-phat-tu-9628/" title="Tin nhắn Noel và trách nhiệm người Phật tử" class="absolute"></a>
+									<div class="sp-thumbnail-description">Tin nhắn Noel và trách nhiệm người Phật tử</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc.jpeg"  alt="4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc-9627/" title="4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học" class="absolute"></a>
+									<div class="sp-thumbnail-description">4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_tung-kinh-giup-giam-stress.jpg"  alt="Tụng kinh giúp giảm stress"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-tung-kinh-giup-giam-stress-9626/" title="Tụng kinh giúp giảm stress" class="absolute"></a>
+									<div class="sp-thumbnail-description">Tụng kinh giúp giảm stress</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet.jpg"  alt="Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet-9625/" title="Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt" class="absolute"></a>
+									<div class="sp-thumbnail-description">Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_moi-quan-he-tuong-tac-giua-nghe-thuat-phat-giao-nhat-ban-va-trung-quoc.jpg"  alt="Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-moi-quan-he-tuong-tac-giua-nghe-thuat-phat-giao-nhat-ban-va-trung-quoc-9622/" title="Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc" class="absolute"></a>
+									<div class="sp-thumbnail-description">Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_gap-duoc-phat-phap-la-kho.jpg"  alt="Gặp được Phật pháp là khó"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-gap-duoc-phat-phap-la-kho-9621/" title="Gặp được Phật pháp là khó" class="absolute"></a>
+									<div class="sp-thumbnail-description">Gặp được Phật pháp là khó</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_pháp-luạn.jpg"  alt="Pháp luận"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-pháp-luạn-9620/" title="Pháp luận" class="absolute"></a>
+									<div class="sp-thumbnail-description">Pháp luận</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_duoc-lam-nguoi-la-kho.jpg"  alt="Được làm người là khó"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-duoc-lam-nguoi-la-kho-9619/" title="Được làm người là khó" class="absolute"></a>
+									<div class="sp-thumbnail-description">Được làm người là khó</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_hoa-ky-hoi-thao-cua-hoi-phat-tu-khu-vuc-new-york.jpg"  alt="Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-hoa-ky-hoi-thao-cua-hoi-phat-tu-khu-vuc-new-york-9618/" title="Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York" class="absolute"></a>
+									<div class="sp-thumbnail-description">Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York</div>
+								</div>
+							</div>
+							<div class="sp-thumbnail">
+								<div class="sp-thumbnail-image-container">
+									<img class="sp-thumbnail-image" src="/Images/News/thumb/chuaadida_thumb_khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do.jpg"  alt="Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ"/>
+								</div>
+								<div class="sp-thumbnail-text">
+									<a href="/chi-tiet-khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do-9617/" title="Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ" class="absolute"></a>
+									<div class="sp-thumbnail-description">Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ</div>
+								</div>
+							</div>
+						</div>
+					</div><!-- end slide -->
+                	
+                    <div class="content horiz">
+                		<div class="flexslider" id="slider-carousel">
+							<ul class="slides">
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-mot-so-van-de-tu-tuong-vua-tran-nhan-tong-p-1-9577/" title="Một số vấn đề tư tưởng vua Trần Nhân Tông (P.1)">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_mot-so-van-de-tu-tuong-vua-tran-nhan-tong-p-1.jpg" alt="Một số vấn đề tư tưởng vua Trần Nhân Tông (P.1)" style="height: 80px;"/></div>
+											Một số vấn đề tư tưởng vua Trần Nhân Tông (P.1)
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-nghiep-tai-sinh-va-dau-kho-9423/" title="Nghiệp, Tái Sinh Và Đau Khổ">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_nghiep-tai-sinh-va-dau-kho.jpg" alt="Nghiệp, Tái Sinh Và Đau Khổ" style="height: 80px;"/></div>
+											Nghiệp, Tái Sinh Và Đau Khổ
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-tac-dung-chong-ung-thu-cua-tra-9206/" title="Tác dụng chống ung thư của trà">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_tac-dung-chong-ung-thu-cua-tra.png" alt="Tác dụng chống ung thư của trà" style="height: 80px;"/></div>
+											Tác dụng chống ung thư của trà
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-thien-su-thich-nhat-hanh-da-ve-tham-chon-to-to-dinh-tu-hieu-hue-9196/" title="Thiền sư Thích Nhất Hạnh đã về thăm chốn Tổ: tổ đình Từ Hiếu - Huế">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thien-su-thich-nhat-hanh-da-ve-tham-chon-to-to-dinh-tu-hieu-hue.jpg" alt="Thiền sư Thích Nhất Hạnh đã về thăm chốn Tổ: tổ đình Từ Hiếu - Huế" style="height: 80px;"/></div>
+											Thiền sư Thích Nhất Hạnh đã về thăm chốn Tổ: tổ đình Từ Hiếu - Huế
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-thien-su-huyen-quang-va-con-duong-tram-lang-cua-mua-thu-9207/" title="Thiền sư Huyền Quang và con đường trầm lặng của mùa thu">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thien-su-huyen-quang-va-con-duong-tram-lang-cua-mua-thu.jpg" alt="Thiền sư Huyền Quang và con đường trầm lặng của mùa thu" style="height: 80px;"/></div>
+											Thiền sư Huyền Quang và con đường trầm lặng của mùa thu
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-thong-bao-dai-le-vu-lan-tai-chua-a-di-da-pl-2561-2017-9145/" title="Thông Báo Đại Lễ Vu Lan tại Chùa A Di Đà PL. 2561 (2017)">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-bao-dai-le-vu-lan-tai-chua-a-di-da-pl-2561-2017.jpg" alt="Thông Báo Đại Lễ Vu Lan tại Chùa A Di Đà PL. 2561 (2017)" style="height: 80px;"/></div>
+											Thông Báo Đại Lễ Vu Lan tại Chùa A Di Đà PL. 2561 (2017)
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-giai-dap-nguon-goc-chu-thich-trong-dao-phat-9083/" title="Giải đáp Nguồn gốc chữ Thích trong Đạo Phật">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_giai-dap-nguon-goc-chu-thich-trong-dao-phat.jpg" alt="Giải đáp Nguồn gốc chữ Thích trong Đạo Phật" style="height: 80px;"/></div>
+											Giải đáp Nguồn gốc chữ Thích trong Đạo Phật
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-pg-uc-chau-khai-mac-khoa-an-cu-kiet-ha-ky-18-tai-chua-phap-hoa-adelaide-nam-uc-9019/" title="PG Úc Châu khai mạc Khóa An Cư Kiết Hạ kỳ 18 tại Chùa Pháp Hoa, Adelaide, Nam Úc">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_pg-uc-chau-khai-mac-khoa-an-cu-kiet-ha-ky-18-tai-chua-phap-hoa-adelaide-nam-uc5.jpg" alt="PG Úc Châu khai mạc Khóa An Cư Kiết Hạ kỳ 18 tại Chùa Pháp Hoa, Adelaide, Nam Úc" style="height: 80px;"/></div>
+											PG Úc Châu khai mạc Khóa An Cư Kiết Hạ kỳ 18 tại Chùa Pháp Hoa, Adelaide, Nam Úc
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-vu-thu-hoi-tham-luan-dai-hoi-pg-brvt-dai-duc-thich-thien-thuan-khong-he-sai-trong-bai-tham-luan-8916/" title="Vụ thu hồi tham luận đại hội PG BRVT: Đại đức Thích Thiện Thuận không hề sai trong bài tham luận">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_vu-thu-hoi-tham-luan-dai-hoi-pg-brvt-dai-duc-thich-thien-thuan-khong-he-sai-trong-bai-tham-luan.jpg" alt="Vụ thu hồi tham luận đại hội PG BRVT: Đại đức Thích Thiện Thuận không hề sai trong bài tham luận" style="height: 80px;"/></div>
+											Vụ thu hồi tham luận đại hội PG BRVT: Đại đức Thích Thiện Thuận không hề sai trong bài tham luận
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-chinh-thuc-khai-mac-dai-le-vesak-lhq-2641-pl-2561-tai-sri-lanka-8808/" title="Chính thức khai mạc Đại lễ Vesak LHQ 2641 - PL 2561 tại Sri Lanka">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_chinh-thuc-khai-mac-dai-le-vesak-lhq-2641-pl-2561-tai-sri-lanka.jpg" alt="Chính thức khai mạc Đại lễ Vesak LHQ 2641 - PL 2561 tại Sri Lanka" style="height: 80px;"/></div>
+											Chính thức khai mạc Đại lễ Vesak LHQ 2641 - PL 2561 tại Sri Lanka
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-chum-anh-khap-the-gioi-don-mung-dai-le-vesak-2641-pl-2561-8796/" title="Chùm ảnh: Khắp Thế giới đón mừng Đại lễ Vesak 2641 - PL 2561">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_chum-anh-khap-the-gioi-don-mung-dai-le-vesak-2641-pl-2561.jpg" alt="Chùm ảnh: Khắp Thế giới đón mừng Đại lễ Vesak 2641 - PL 2561" style="height: 80px;"/></div>
+											Chùm ảnh: Khắp Thế giới đón mừng Đại lễ Vesak 2641 - PL 2561
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-khong-the-cam-duoc-viec-treo-co-ngay-phat-dan-8800/" title="Không thể cấm được việc treo cờ ngày Phật đản">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_khong-the-cam-duoc-viec-treo-co-ngay-phat-dan.jpg" alt="Không thể cấm được việc treo cờ ngày Phật đản" style="height: 80px;"/></div>
+											Không thể cấm được việc treo cờ ngày Phật đản
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-video-tham-quan-le-phat-chua-a-di-da-canleyvale-sydney-australia-8775/" title="Video Tham Quan Lễ Phật CHÙA A DI ĐÀ Canleyvale Sydney Australia">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_video-tham-quan-le-phat-chua-a-di-da-canleyvale-sydney-australia.jpg" alt="Video Tham Quan Lễ Phật CHÙA A DI ĐÀ Canleyvale Sydney Australia" style="height: 80px;"/></div>
+											Video Tham Quan Lễ Phật CHÙA A DI ĐÀ Canleyvale Sydney Australia
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-nu-ty-phu-ho-then-vi-mac-ao-me-va-nhung-co-khong-ngo-no-da-cuu-mang-minh-8728/" title="Nữ tỷ phú hổ thẹn vì mặc áo mẹ vá, nhưng cô không ngờ nó đã cứu mạng mình">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_nu-ty-phu-ho-then-vi-mac-ao-me-va-nhung-co-khong-ngo-no-da-cuu-mang-minh.jpg" alt="Nữ tỷ phú hổ thẹn vì mặc áo mẹ vá, nhưng cô không ngờ nó đã cứu mạng mình" style="height: 80px;"/></div>
+											Nữ tỷ phú hổ thẹn vì mặc áo mẹ vá, nhưng cô không ngờ nó đã cứu mạng mình
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-thong-bach-phat-dan-2641-dl-2017-cua-ht-hoi-chu-ghpgvntn-hai-ngoai-udl-ttl-8727/" title="Thông Bạch Phật Đản 2641 - DL 2017 của HT Hội Chủ GHPGVNTN Hải Ngoại UĐL-TTL">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-bach-phat-dan-pl-2641-dl-2017-cua-hoa-thuong-hoi-chu-phat-giao-uc-chau.jpg" alt="Thông Bạch Phật Đản 2641 - DL 2017 của HT Hội Chủ GHPGVNTN Hải Ngoại UĐL-TTL" style="height: 80px;"/></div>
+											Thông Bạch Phật Đản 2641 - DL 2017 của HT Hội Chủ GHPGVNTN Hải Ngoại UĐL-TTL
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-thong-bao-le-phat-dan-2641-pl-2561-dl-2017-cua-chua-a-di-da-8702/" title="Thông Báo: Lễ Phật Đản 2641 - PL 2561 - DL 2017 của Chùa A Di Đà">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-bao-le-phat-dan-chua-a-di-da-phat-lich-2641-dl-20176.jpg" alt="Thông Báo: Lễ Phật Đản 2641 - PL 2561 - DL 2017 của Chùa A Di Đà" style="height: 80px;"/></div>
+											Thông Báo: Lễ Phật Đản 2641 - PL 2561 - DL 2017 của Chùa A Di Đà
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-sanh-ve-dau-la-do-minh-8631/" title="Sanh về đâu là do mình">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_sanh-ve-dau-la-do-minh.jpg" alt="Sanh về đâu là do mình" style="height: 80px;"/></div>
+											Sanh về đâu là do mình
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-thong-diep-tu-bo-tat-quan-the-am-8628/" title="Thông điệp từ Bồ-tát Quán Thế Âm">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-diep-tu-bo-tat-quan-the-am.jpg" alt="Thông điệp từ Bồ-tát Quán Thế Âm" style="height: 80px;"/></div>
+											Thông điệp từ Bồ-tát Quán Thế Âm
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-nguon-goc-me-tin-8571/" title="Nguồn gốc mê tín">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_nguon-goc-me-tin.jpg" alt="Nguồn gốc mê tín" style="height: 80px;"/></div>
+											Nguồn gốc mê tín
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="box-news ">
+										<a  href="/chi-tiet-chua-a-di-da-chuc-xuan-nam-dinh-dau-2017-8481/" title="CHÙA A DI ĐÀ Chúc Xuân năm Đinh Dậu 2017">
+											<div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_chua-a-di-da-chuc-xuan-nam-dinh-dau-2017.jpg" alt="CHÙA A DI ĐÀ Chúc Xuân năm Đinh Dậu 2017" style="height: 80px;"/></div>
+											CHÙA A DI ĐÀ Chúc Xuân năm Đinh Dậu 2017
+										</a>
+									</div>
+								</li>
+                                </ul>
+                            </div>
+                         </div>
+                	                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Tin Phật Giáo" alt="Tin Phật Giáo" />
+                        	<a href="/tin-phat-giao/" title="Tin Phật Giáo"><span>Tin Phật Giáo</span></a><p>
+                            	
+                                <a href="/tin-vien-tich-tuong-niem/" title="Tin Viên Tịch & Tưởng Niệm">Tin Viên Tịch & Tưởng Niệm</a>  |  
+                                <a href="/phat-giao-voi-xa-hoi/" title="Phật Giáo Với Xã Hội">Phật Giáo Với Xã Hội</a>  |  
+                                <a href="/phat-giao-uc-tan-tay-lan/" title="Phật Giáo Úc - Tân Tây Lan">Phật Giáo Úc - Tân Tây Lan</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc-9627/" title="4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học">
+                                <strong>4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc.jpeg" /></div>
+                                </a><br />
+                                <span class="news_day">17/1/2018</span>
+                                <p>Đại học British Columbia (UBC) sẽ điều hành một mạng lưới các trường đại học quốc tế tiến hành nghiên cứu về...</p>
+                                <p align="right"><a href="/chi-tiet-49-trieu-do-ho-tro-cac-du-an-nghien-cuu-phat-hoc-9627/" title="4,9 triệu đô hỗ trợ các dự án nghiên cứu Phật học"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-hoa-ky-hoi-thao-cua-hoi-phat-tu-khu-vuc-new-york-9618/" title="Hoa Kỳ: Hội Thảo Của Hội Phật Tử Khu Vực New York">Hoa Kỳ: Hội Thảo Của Hội Phật Tử...</a></li>
+                                <li><a href="/chi-tiet-nepal-hoi-thao-phat-giao-quoc-te-dorje-sugden-9613/" title="Nepal: Hội Thảo Phật Giáo Quốc Tế Dorje Sugden">Nepal: Hội Thảo Phật Giáo Quốc Tế...</a></li>
+                                <li><a href="/chi-tiet-sri-lanka-ky-niem-3-nam-thanh-lap-trung-tam-phat-giao-quoc-te-nelligala-9614/" title="Sri Lanka: Kỷ Niệm 3 Năm Thành Lập Trung Tâm Phật Giáo Quốc Tế Nelligala">Sri Lanka: Kỷ Niệm 3 Năm Thành Lập...</a></li>
+                                <li><a href="/chi-tiet-malaysia-tang-cuong-an-ninh-sau-vu-mat-trom-tuong-phat-9600/" title="Malaysia: Tăng Cường An Ninh Sau Vụ Mất Trộm Tượng Phật">Malaysia: Tăng Cường An Ninh Sau...</a></li>
+                                <li><a href="/chi-tiet-khanh-hoa-cu-chu-tang-tru-tri-6-ngoi-chua-tai-truong-sa-9596/" title="Khánh Hòa: Cử chư Tăng trụ trì 6 ngôi chùa tại Trường Sa">Khánh Hòa: Cử chư Tăng trụ trì 6...</a></li></ul>
+                        </div>
+                    </div>
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Sinh Hoạt Chùa A Di Đà" alt="Sinh Hoạt Chùa A Di Đà" />
+                        	<a href="/sinh-hoat-chua-a-di-da/" title="Sinh Hoạt Chùa A Di Đà"><span>Sinh Hoạt Chùa A Di Đà</span></a>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-thong-bao-le-via-quan-the-am-bo-tat-ngay-04-11-2017-9415/" title="Thông báo Lễ Vía Quan Thế Âm Bồ Tát ngày 04.11.2017">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-bao-le-via-quan-the-am-bo-tat-ngay-04-11-2017.jpg"  style="height: 80px;"></div>
+                                Thông báo Lễ Vía Quan Thế Âm Bồ Tát ngày 04.11.2017
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-thong-bao-dai-le-vu-lan-tai-chua-a-di-da-pl-2561-2017-9145/" title="Thông Báo Đại Lễ Vu Lan tại Chùa A Di Đà PL. 2561 (2017)">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-bao-dai-le-vu-lan-tai-chua-a-di-da-pl-2561-2017.jpg"  style="height: 80px;"></div>
+                                Thông Báo Đại Lễ Vu Lan tại Chùa A Di Đà PL. 2561 (2017)
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-video-tham-quan-le-phat-chua-a-di-da-canleyvale-sydney-australia-8775/" title="Video Tham Quan Lễ Phật CHÙA A DI ĐÀ Canleyvale Sydney Australia">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_video-tham-quan-le-phat-chua-a-di-da-canleyvale-sydney-australia.jpg"  style="height: 80px;"></div>
+                                Video Tham Quan Lễ Phật CHÙA A DI ĐÀ Canleyvale Sydney Australia
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-thong-bao-le-phat-dan-2641-pl-2561-dl-2017-cua-chua-a-di-da-8702/" title="Thông Báo: Lễ Phật Đản 2641 - PL 2561 - DL 2017 của Chùa A Di Đà">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_thong-bao-le-phat-dan-chua-a-di-da-phat-lich-2641-dl-20176.jpg"  style="height: 80px;"></div>
+                                Thông Báo: Lễ Phật Đản 2641 - PL 2561 - DL 2017 của Chùa A Di Đà
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group last">
+                               <a href="/chi-tiet-chua-a-di-da-chuc-xuan-nam-dinh-dau-2017-8481/" title="CHÙA A DI ĐÀ Chúc Xuân năm Đinh Dậu 2017">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_chua-a-di-da-chuc-xuan-nam-dinh-dau-2017.jpg"  style="height: 80px;"></div>
+                                CHÙA A DI ĐÀ Chúc Xuân năm Đinh Dậu 2017
+                                </a>
+                            </div>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Phật Pháp" alt="Phật Pháp" />
+                        	<a href="/phat-phap/" title="Phật Pháp"><span>Phật Pháp</span></a><p>
+                            	
+                                <a href="/nghi-le/" title="Nghi Lễ">Nghi Lễ</a>  |  
+                                <a href="/giao-ly/" title="Giáo Lý">Giáo Lý</a>  |  
+                                <a href="/bo-de-tam/" title="Bồ Đề Tâm">Bồ Đề Tâm</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-tung-kinh-giup-giam-stress-9626/" title="Tụng kinh giúp giảm stress">
+                                <strong>Tụng kinh giúp giảm stress</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_tung-kinh-giup-giam-stress.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">17/1/2018</span>
+                                <p>Các nhà nghiên cứu tại Trung tâm Phật học Hồng Kông cho rằng, nguồn năng lượng tỏa ra từ việc tụng niệm thật...</p>
+                                <p align="right"><a href="/chi-tiet-tung-kinh-giup-giam-stress-9626/" title="Tụng kinh giúp giảm stress"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-gap-duoc-phat-phap-la-kho-9621/" title="Gặp được Phật pháp là khó">Gặp được Phật pháp là khó</a></li>
+                                <li><a href="/chi-tiet-duoc-lam-nguoi-la-kho-9619/" title="Được làm người là khó">Được làm người là khó</a></li>
+                                <li><a href="/chi-tiet-quet-don-tot-cho-ban-–-hay-hoc-no-tu-toi-9616/" title="Quét Dọn Tốt Cho Bạn – Hãy Học Nó Từ Tôi">Quét Dọn Tốt Cho Bạn – Hãy Học Nó...</a></li>
+                                <li><a href="/chi-tiet-dieu-phat-day-ve-chu-hieu-9604/" title="Điều phật dạy về chữ Hiếu">Điều phật dạy về chữ Hiếu</a></li>
+                                <li><a href="/chi-tiet-phap-su-9602/" title="Pháp sư">Pháp sư</a></li></ul>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Lịch Sử Phật Giáo" alt="Lịch Sử Phật Giáo" />
+                        	<a href="/lich-su-phat-giao/" title="Lịch Sử Phật Giáo"><span>Lịch Sử Phật Giáo</span></a><p>
+                            	
+                                <a href="/nghien-cuu-phat-giao/" title="Nghiên Cứu Phật Giáo">Nghiên Cứu Phật Giáo</a>  |  
+                                <a href="/nhan-vat/" title="Nhân - Vật">Nhân - Vật</a>  |  
+                                <a href="/phat-bo-tat-thanh-chung/" title="Phật - Bồ Tát - Thánh Chúng">Phật - Bồ Tát - Thánh Chúng</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-phat-nhan-9624/" title="Phật nhãn">
+                                <strong>Phật nhãn</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_phat-nhan3.jpeg" /></div>
+                                </a><br />
+                                <span class="news_day">19/1/2018</span>
+                                <p>Trí tuệ, an tâm, kiến tánh, giác ngộ, và giải thoát là điều mà khoa học hiện đại vẫn chưa theo kịp Phật Giáo.</p>
+                                <p align="right"><a href="/chi-tiet-phat-nhan-9624/" title="Phật nhãn"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-pháp-luạn-9620/" title="Pháp luận">Pháp luận</a></li>
+                                <li><a href="/chi-tiet-gioi-va-luat-9612/" title="Giới Và Luật">Giới Và Luật</a></li>
+                                <li><a href="/chi-tiet-dac-tinh-cua-ton-giao-9611/" title="Đặc Tính Của Tôn Giáo">Đặc Tính Của Tôn Giáo</a></li>
+                                <li><a href="/chi-tiet-luan-hoi-tái-sinh-dàu-thai-9598/" title="Luân hồi tái sinh & đầu thai">Luân hồi tái sinh & đầu thai</a></li>
+                                <li><a href="/chi-tiet-tim-hieu-duong-loi-thuc-hanh-thien-phai-truc-lam-9579/" title="Tìm hiểu đường lối thực hành Thiền phái Trúc Lâm">Tìm hiểu đường lối thực hành Thiền...</a></li></ul>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Tam Tạng Kinh Điển" alt="Tam Tạng Kinh Điển" />
+                        	<a href="/tam-tang-kinh-dien/" title="Tam Tạng Kinh Điển"><span>Tam Tạng Kinh Điển</span></a><p>
+                            	
+                                <a href="/tranh-phat-giao/" title="Tranh Phật Giáo">Tranh Phật Giáo</a>  |  
+                                <a href="/sach-truyen-tich/" title="Sách - Truyện Tích">Sách - Truyện Tích</a>  |  
+                                <a href="/nhung-loi-phat-day/" title="Những Lời Phật Dạy">Những Lời Phật Dạy</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do-9617/" title="Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ">
+                                <strong>Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">13/1/2018</span>
+                                <p>Để tạo ra tư duy triết học và khoa học Phật giáo cổ điển trên bản chất của hiện thực mà con người hiện đại có...</p>
+                                <p align="right"><a href="/chi-tiet-khoa-hoc-va-triet-hoc-trong-kinh-dien-phat-giao-an-do-9617/" title="Khoa Học Và Triết học Trong Kinh Điển Phật Giáo Ấn Độ"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-moi-hat-com-nang-nghia-tinh-nguoi-9036/" title="Mỗi hạt cơm nặng nghĩa tình người">Mỗi hạt cơm nặng nghĩa tình người</a></li>
+                                <li><a href="/chi-tiet-tranh-ve-quan-the-am-bo-tat-cua-phat-giao-han-quoc-9034/" title="Tranh vẽ Quán Thế Âm Bồ tát của Phật giáo Hàn quốc">Tranh vẽ Quán Thế Âm Bồ tát của...</a></li>
+                                <li><a href="/chi-tiet-luan-ngu-uan-9027/" title="Luận Ngũ Uẩn">Luận Ngũ Uẩn</a></li>
+                                <li><a href="/chi-tiet-chuyen-an-trom-chuong-chua-9006/" title="Chuyện ăn trộm chuông chùa">Chuyện ăn trộm chuông chùa</a></li>
+                                <li><a href="/chi-tiet-dai-tang-kinh-tieng-viet-kinh-dai-bi-8994/" title="Đại Tạng Kinh tiếng Việt: Kinh Đại Bi">Đại Tạng Kinh tiếng Việt: Kinh Đại...</a></li></ul>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Chuyên Đề" alt="Chuyên Đề" />
+                        	<a href="/chuyen-de/" title="Chuyên Đề"><span>Chuyên Đề</span></a><p>
+                            	
+                                <a href="/xuan-cua-thien/" title="Xuân Cửa Thiền">Xuân Cửa Thiền</a>  |  
+                                <a href="/phat-dan-an-cu/" title="Phật Đản - An Cư">Phật Đản - An Cư</a>  |  
+                                <a href="/vu-lan/" title="Vu Lan">Vu Lan</a>  |  
+                                <a href="/phap-khi/" title="Pháp Khí">Pháp Khí</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-hoa-long-9455/" title="HOA LÒNG">
+                                <strong>HOA LÒNG</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_hoa-long.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">6/11/2017</span>
+                                <p>Trong căn phòng hẹp trên lầu một, hàng ngày là lớp học cho khóa sinh trường Huần Luyện Giảng sư do HT Huyền...</p>
+                                <p align="right"><a href="/chi-tiet-hoa-long-9455/" title="HOA LÒNG"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-hat-com-9454/" title="HẠT CƠM">HẠT CƠM</a></li>
+                                <li><a href="/chi-tiet-mon-qua-muon-9457/" title="Món quà muộn">Món quà muộn</a></li>
+                                <li><a href="/chi-tiet-mua-vu-lan-nghi-ve-tu-trong-an-9203/" title="Mùa Vu lan nghĩ về Tứ trọng ân">Mùa Vu lan nghĩ về Tứ trọng ân</a></li>
+                                <li><a href="/chi-tiet-thang-bay-ve-9205/" title="Tháng Bảy về">Tháng Bảy về</a></li>
+                                <li><a href="/chi-tiet-ai-con-me-xin-dung-lam-me-khoc-9201/" title="Ai còn mẹ xin đừng làm mẹ khóc">Ai còn mẹ xin đừng làm mẹ khóc</a></li></ul>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Văn Hóa Phật Giáo" alt="Văn Hóa Phật Giáo" />
+                        	<a href="/van-hoa-phat-giao/" title="Văn Hóa Phật Giáo"><span>Văn Hóa Phật Giáo</span></a><p>
+                            	
+                                <a href="/thi-ca-cham-ngon-sang-tac/" title="Thi Ca - Châm Ngôn - Sáng Tác">Thi Ca - Châm Ngôn - Sáng Tác</a>  |  
+                                <a href="/kien-truc/" title="Kiến Trúc">Kiến Trúc</a>  |  
+                                <a href="/tu-vien/" title="Tự Viện">Tự Viện</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet-9625/" title="Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt">
+                                <strong>Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">20/1/2018</span>
+                                <p>Đã từ lâu những tư tưởng của nhà Phật đã ăn sâu vào nếp sống và suy nghĩ của người Việt trên nhiều phương...</p>
+                                <p align="right"><a href="/chi-tiet-khong-gian-van-hoa-phat-giao-trong-van-hoa-truyen-thong-cua-nguoi-viet-9625/" title="Không gian văn hóa Phật giáo trong văn hóa truyền thống của người Việt"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-moi-quan-he-tuong-tac-giua-nghe-thuat-phat-giao-nhat-ban-va-trung-quoc-9622/" title="Mối quan hệ tương tác giữa nghệ thuật Phật giáo Nhật Bản và Trung Quốc">Mối quan hệ tương tác giữa nghệ...</a></li>
+                                <li><a href="/chi-tiet-thay-doi-va-co-huu-trong-cac-ngoi-chua-phat-giao-tay-tang-9615/" title="Thay Đổi Và Cố Hữu Trong Các Ngôi Chùa Phật Giáo Tây Tạng">Thay Đổi Và Cố Hữu Trong Các Ngôi...</a></li>
+                                <li><a href="/chi-tiet-nhat-ban-1001-buc-tuong-kannon-duoc-tan-trang-9595/" title="Nhật Bản: 1001 Bức Tượng Kannon Được Tân Trang">Nhật Bản: 1001 Bức Tượng Kannon...</a></li>
+                                <li><a href="/chi-tiet-no-luc-lon-bao-ton-moc-ban-chua-vinh-nghiem-bac-giang-9593/" title="Nỗ lực lớn bảo tồn Mộc bản chùa Vĩnh Nghiêm, Bắc Giang">Nỗ lực lớn bảo tồn Mộc bản chùa...</a></li>
+                                <li><a href="/chi-tiet-australia-trung-bay-tuong-phat-nam-duc-phat-bat-diet-o-niet-ban-9591/" title="Australia: Trưng Bày Tượng Phật Nằm 'Đức Phật Bất Diệt Ở Niết Bàn'">Australia: Trưng Bày Tượng Phật...</a></li></ul>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Môn Phong Pháp Phái" alt="Môn Phong Pháp Phái" />
+                        	<a href="/mon-phong-phap-phai/" title="Môn Phong Pháp Phái"><span>Môn Phong Pháp Phái</span></a><p>
+                            	
+                                <a href="/ngu-luc/" title="NGỮ LỤC">NGỮ LỤC</a>  |  
+                                <a href="/giai-thoai-nha-thien/" title="Giai Thoại Nhà Thiên">Giai Thoại Nhà Thiên</a>  |  
+                                <a href="/to-su/" title="Tổ Sư">Tổ Sư</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-bieu-do-truyen-thua-cac-tong-phai-phat-giao-tu-an-do-den-viet-nam-9420/" title="Biểu đồ truyền thừa các tông phái Phật giáo từ Ấn Độ đến Việt Nam">
+                                <strong>Biểu đồ truyền thừa các tông phái Phật giáo từ Ấn Độ đến Việt Nam</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_bieu-do-truyen-thua-cac-tong-phai-phat-giao-tu-an-do-den-viet-nam.png" /></div>
+                                </a><br />
+                                <span class="news_day">30/10/2017</span>
+                                <p>Lời Ban Biên Tập: Mặc dù sách dưới đây không ghi rõ người biên soạn nhưng nhận thấy rất hữu ích cho người học...</p>
+                                <p align="right"><a href="/chi-tiet-bieu-do-truyen-thua-cac-tong-phai-phat-giao-tu-an-do-den-viet-nam-9420/" title="Biểu đồ truyền thừa các tông phái Phật giáo từ Ấn Độ đến Việt Nam"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-truong-lao-hoa-thuong-thich-tri-tam-1934-2017-9343/" title="Trưởng lão Hoà Thượng Thích Trí Tâm (1934-2017)">Trưởng lão Hoà Thượng Thích Trí...</a></li>
+                                <li><a href="/chi-tiet-cuoc-doi-tu-va-hanh-dao-cua-thien-su-phap-loa-9327/" title="Cuộc đời tu và hành đạo của Thiền sư Pháp Loa">Cuộc đời tu và hành đạo của Thiền...</a></li>
+                                <li><a href="/chi-tiet-dung-de-viec-nho-lam-lo-viec-lon-9161/" title="Đừng Để Việc Nhỏ Làm Lỡ Việc Lớn">Đừng Để Việc Nhỏ Làm Lỡ Việc Lớn</a></li>
+                                <li><a href="/chi-tiet-thien-su-van-hanh-giup-vua-gianh-dai-nghiep-roi-nhu-suong-nhu-gio-ve-troi-9136/" title="Thiền sư Vạn Hạnh giúp vua giành đại nghiệp, rồi như sương, như gió về Trời">Thiền sư Vạn Hạnh giúp vua giành...</a></li>
+                                <li><a href="/chi-tiet-thien-su-tong-dien-va-ky-duyen-voi-phat-giao-9126/" title="Thiền sư Tông Diễn và kỳ duyên với Phật giáo">Thiền sư Tông Diễn và kỳ duyên với...</a></li></ul>
+                        </div>
+                    </div>                 
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Thơ Nhạc Mặc Giang" alt="Thơ Nhạc Mặc Giang" />
+                        	<a href="/tho-nhac-mac-giang/" title="Thơ Nhạc Mặc Giang"><span>Thơ Nhạc Mặc Giang</span></a><p>
+                            	
+                                <a href="/sach-tho-mac-giang/" title="Sách Thơ Mặc Giang">Sách Thơ Mặc Giang</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-gioi-tri-thuc-nghi-gi-ve-tranh-chap-quyen-tac-gia-tap-tho-viet-nam-thi-su-hung-ca-9532/" title="Giới Tri Thức Nghĩ gì về Tranh chấp quyền tác giả tập thơ 'Việt Nam Thi Sử Hùng Ca'?">
+                                <strong>Giới Tri Thức Nghĩ gì về Tranh chấp quyền tác giả tập thơ 'Việt Nam Thi Sử Hùng Ca'?</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_gioi-tri-thuc-nghi-gi-ve-tranh-chap-quyen-tac-gia-tap-tho-viet-nam-thi-su-hung-ca.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">27/11/2017</span>
+                                <p>Sau khi Tòa Án Nhân Dân TP.HCM xét xử tuyên phán ngày 06-9-2017: "Tranh chấp quyền tác giả tác phẩm Việt Nam...</p>
+                                <p align="right"><a href="/chi-tiet-gioi-tri-thuc-nghi-gi-ve-tranh-chap-quyen-tac-gia-tap-tho-viet-nam-thi-su-hung-ca-9532/" title="Giới Tri Thức Nghĩ gì về Tranh chấp quyền tác giả tập thơ 'Việt Nam Thi Sử Hùng Ca'?"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-quyet-dinh-thu-hoi-va-tieu-huy-sach-‘viet-nam-thi-su-hung-ca’-cua-tran-tri-trung-9495/" title="Quyết Định thu hồi và tiêu hủy sách ‘Việt Nam Thi Sử Hùng Ca’ của Trần Trí Trung.">Quyết Định thu hồi và tiêu hủy...</a></li>
+                                <li><a href="/chi-tiet-tieng-goi-mien-trung-9464/" title="Tiếng gọi Miền Trung ">Tiếng gọi Miền Trung </a></li>
+                                <li><a href="/chi-tiet-que-huong-bao-lut-nua-roi-9463/" title="Quê hương bão lụt nữa rồi! ">Quê hương bão lụt nữa rồi! </a></li>
+                                <li><a href="/chi-tiet-tuoi-tre-viet-nam-9377/" title="Tuổi trẻ Việt Nam">Tuổi trẻ Việt Nam</a></li>
+                                <li><a href="/chi-tiet-tuoi-hoc-tro-9376/" title="Tuổi Học Trò">Tuổi Học Trò</a></li></ul>
+                        </div>
+                    </div>
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="TỰ VIỆN GHPGVNTN Hải Ngoại tại ÚC-TÂN TÂY LAN" alt="TỰ VIỆN GHPGVNTN Hải Ngoại tại ÚC-TÂN TÂY LAN" />
+                        	<a href="/tu-vien-ghpgvntn-hai-ngoai-tai-uc-tan-tay-lan/" title="TỰ VIỆN GHPGVNTN Hải Ngoại tại ÚC-TÂN TÂY LAN"><span>TỰ VIỆN GHPGVNTN Hải Ngoại tại ÚC-TÂN TÂY LAN</span></a>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-danh-sach-41-thanh-vien-tu-vien-cua-gh-nhiem-ky-5-2015-2019-6891/" title="Danh sách 41 Thành Viên Tự Viện của GH Nhiệm Kỳ 5 (2015-2019)">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_danh-sach-41-thanh-vien-tu-vien-cua-gh-nhiem-ky-5-2015-2019.png"  style="height: 80px;"></div>
+                                Danh sách 41 Thành Viên Tự Viện của GH Nhiệm Kỳ 5 (2015-2019)
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-danh-sach-thanh-vien-hoi-dong-dieu-hanh-va-tru-tri-cac-tu-vien-5451/" title="Danh sách Thành viên Hội Đồng Điều Hành và Trụ trì các Tự viện">
+                                <div class="pict"><img src="/Images/News/thumb/bizmac_thumb_19172015_081727.png"  style="height: 80px;"></div>
+                                Danh sách Thành viên Hội Đồng Điều Hành và Trụ trì các Tự viện
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-35-thanh-vien-tu-vien-chinh-thuc-cua-giao-hoi-3261/" title="35 THÀNH VIÊN TỰ VIỆN chính thức của GIÁO HỘI ">
+                                <div class="pict"><img src="/Images/News/thumb/bizmac_thumb_27082014_040829.png"  style="height: 80px;"></div>
+                                35 THÀNH VIÊN TỰ VIỆN chính thức của GIÁO HỘI 
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-chua-tri-duc-tan-tay-lan-3259/" title="Chùa TRÍ ĐỨC - Tân Tây Lan">
+                                <div class="pict"><img src="/Images/News/thumb/bizmac_thumb_27242014_022427.jpg"  style="height: 80px;"></div>
+                                Chùa TRÍ ĐỨC - Tân Tây Lan
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group last">
+                               <a href="/chi-tiet-chua-giac-nhien-tan-tay-lan-3258/" title="Chùa GIÁC NHIÊN - Tân Tây Lan">
+                                <div class="pict"><img src="/Images/News/thumb/bizmac_thumb_27112014_021103.jpg"  style="height: 80px;"></div>
+                                Chùa GIÁC NHIÊN - Tân Tây Lan
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Ý KIẾN - DIỄN ĐÀN - TƯ VẤN - PHÓNG SỰ" alt="Ý KIẾN - DIỄN ĐÀN - TƯ VẤN - PHÓNG SỰ" />
+                        	<a href="/y-kien-dien-dan-tu-van-phong-su/" title="Ý KIẾN - DIỄN ĐÀN - TƯ VẤN - PHÓNG SỰ"><span>Ý KIẾN - DIỄN ĐÀN - TƯ VẤN - PHÓNG SỰ</span></a>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-tin-nhan-noel-va-trach-nhiem-nguoi-phat-tu-9628/" title="Tin nhắn Noel và trách nhiệm người Phật tử">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_tin-nhan-noel-va-trach-nhiem-nguoi-phat-tu.jpg"  style="height: 80px;"></div>
+                                Tin nhắn Noel và trách nhiệm người Phật tử
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-dong-chung-thien-mon-bai-9-9603/" title="ĐỘNG CHÚNG THIỀN MÔN ( Bài 9 )">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_dong-chung-thien-mon-bai-92.png"  style="height: 80px;"></div>
+                                ĐỘNG CHÚNG THIỀN MÔN ( Bài 9 )
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-dong-chung-thien-mon-bai-8-9589/" title="ĐỘNG CHÚNG THIỀN MÔN ( Bài 8)">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_dong-chung-thien-mon-bai-8.jpg"  style="height: 80px;"></div>
+                                ĐỘNG CHÚNG THIỀN MÔN ( Bài 8)
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group ">
+                               <a href="/chi-tiet-vo-tam-hoi-le-noel-9588/" title="Vô tâm hội lễ Noel">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_vo-tam-hoi-le-noel.jpg"  style="height: 80px;"></div>
+                                Vô tâm hội lễ Noel
+                                </a>
+                            </div>
+                        	<div class="box-news box-news-group last">
+                               <a href="/chi-tiet-merry-christmas-va-mot-goc-nhin-9584/" title="Merry Christmas và một góc nhìn">
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_merry-christmas-va-mot-goc-nhin.jpg"  style="height: 80px;"></div>
+                                Merry Christmas và một góc nhìn
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="group-news group-news-rols" >
+                    	<h2 class="title"><img src="/css/skin/icon-title.png" align="left" title="Khác" alt="Khác" />
+                            <a href="/van-hoa-xa-hoi/" title="Văn Hóa Xã Hội"><span>Văn Hóa Xã Hội</span></a></h2>
+                        <div class="content">
+                        	<div class="box-news-ind news">
+                            	<a href="/chi-tiet-nguon-goc-ve-ngay-tet-duong-lich-9608/" title="Nguồn gốc về ngày Tết Dương lịch">
+                                <strong>Nguồn gốc về ngày Tết Dương lịch</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_nguon-goc-ve-ngay-tet-duong-lich.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">1/1/2018</span>
+                                <p>Lịch sử của ngày Tết Dương lịch bắt nguồn từ hệ thống lịch La Mã cổ đại. Ngày khởi đầu năm mới mùng...</p>
+                            </div>
+                            
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-cuoi-nam-nhe-nhang-9605/" title="Cuối năm nhẹ nhàng">Cuối năm nhẹ nhàng</a></li>
+                                <li><a href="/chi-tiet-nhung-tam-long-thom-thao-mua-dong-9585/" title="Những tấm lòng thơm thảo mùa đông">Những tấm lòng thơm thảo mùa đông</a></li>
+                                <li><a href="/chi-tiet-nhung-buc-anh-xuc-dong-nhat-nam-2017-cua-reuters-9565/" title="Những bức ảnh xúc động nhất năm 2017 của Reuters">Những bức ảnh xúc động nhất năm 2017 của Reuters</a></li>
+                                <li><a href="/chi-tiet-thay-doi-so-phan-nho-nhung-viec-nay-9564/" title="Thay đổi số phận nhờ những việc này">Thay đổi số phận nhờ những việc này</a></li></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="group-news group-news-rols" style="margin-right:0px;">
+                    	<h2 class="title"><img src="/css/skin/icon-title.png" align="left" title="Khác" alt="Khác" />
+                            <a href="/kham-pha-do-day/" title="Khám Phá Đó Đây"><span>Khám Phá Đó Đây</span></a></h2>
+                        <div class="content">
+                        	<div class="box-news-ind news">
+                            	<a href="/chi-tiet-chuyen-mot-de-quoc-o-nam-bo-bien-mat-truoc-khi-nguoi-viet-dat-chan-toi-9610/" title="Chuyện một đế quốc ở Nam Bộ biến mất trước khi người Việt đặt chân tới">
+                                <strong>Chuyện một đế quốc ở Nam Bộ biến mất...</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_chuyen-mot-de-quoc-o-nam-bo-bien-mat-truoc-khi-nguoi-viet-dat-chan-toi.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">9/1/2018</span>
+                                <p>Nam bộ là vùng lãnh thổ quan trọng với những trọng điểm kinh tế lớn của nước Việt Nam hiện đại....</p>
+                            </div>
+                            
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-giua-troi-ret-buot-nhà-su-thiéu-lam-lam-dieu-ai-cung-choang-9609/" title="Giữa trời rét buốt, nhà sư Thiếu Lâm làm điều ai cũng choáng">Giữa trời rét buốt, nhà sư Thiếu Lâm làm điều...</a></li>
+                                <li><a href="/chi-tiet-giai-ma-bieu-tuong-dau-lau-xuong-nguoi-tung-duoc-su-dung-9524/" title="Giải mã biểu tượng đầu lâu, xương người từng được sử dụng">Giải mã biểu tượng đầu lâu, xương người từng được...</a></li>
+                                <li><a href="/chi-tiet-su-that-ve-phep-don-tho-phan-than-thanh-tram-nguoi-cua-ninja-nhat-ban-9500/" title="Sự thật về phép độn thổ, phân thân thành trăm người của Ninja Nhật Bản">Sự thật về phép độn thổ, phân thân thành trăm...</a></li>
+                                <li><a href="/chi-tiet-phat-hien-mo-co-ve-te-thien-dai-thanh-ton-ngo-khong-9442/" title="Phát hiện mộ cổ về Tề thiên đại thánh Tôn Ngộ Không">Phát hiện mộ cổ về Tề thiên đại thánh Tôn Ngộ...</a></li></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="group-news group-news-rols" >
+                    	<h2 class="title"><img src="/css/skin/icon-title.png" align="left" title="Khác" alt="Khác" />
+                            <a href="/van-hoc/" title="Văn Học"><span>Văn Học</span></a></h2>
+                        <div class="content">
+                        	<div class="box-news-ind news">
+                            	<a href="/chi-tiet-tam-lòng-9572/" title="Tâm Lòng">
+                                <strong>Tâm Lòng</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_tam-lòng.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">17/12/2017</span>
+                                <p>Phóng tác từ bài thơ hát nói, Chữ Tình của Nguyễn Công Trứ</p>
+                            </div>
+                            
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-ca-phe-va-cai-tach-a-cup-and-coffee-song-ngu-viet-anh-9476/" title="Cà phê và cái tách - a cup and coffee (song ngữ Việt-Anh)">Cà phê và cái tách - a cup and coffee (song ngữ...</a></li>
+                                <li><a href="/chi-tiet-nhanh-cay-la-9460/" title="NHÀNH CÂY LẠ ">NHÀNH CÂY LẠ </a></li>
+                                <li><a href="/chi-tiet-mua-cho-chet-9459/" title="Mùa Chó Chết">Mùa Chó Chết</a></li>
+                                <li><a href="/chi-tiet-cach-doc-ten-va-phat-am-23-chu-cai-9444/" title="Cách Đọc Tên và Phát Âm 23 Chữ Cái">Cách Đọc Tên và Phát Âm 23 Chữ Cái</a></li></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="group-news group-news-rols" style="margin-right:0px;">
+                    	<h2 class="title"><img src="/css/skin/icon-title.png" align="left" title="Khác" alt="Khác" />
+                            <a href="/khoa-hoc-cong-nghe/" title="Khoa Học Công Nghệ"><span>Khoa Học Công Nghệ</span></a></h2>
+                        <div class="content">
+                        	<div class="box-news-ind news">
+                            	<a href="/chi-tiet-chuoi-ngay-tan-the-keo-dai-7-nam-se-bat-dau-vao-1510-9330/" title="Chuỗi ngày tận thế kéo dài 7 năm sẽ bắt đầu vào 15/10?">
+                                <strong>Chuỗi ngày tận thế kéo dài 7 năm sẽ bắt...</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_chuoi-ngay-tan-the-keo-dai-7-nam-se-bat-dau-vao-1510.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">9/10/2017</span>
+                                <p>Theo nhà lý luận David Meade, chuỗi ngày tận thế kéo dài 7 năm sẽ bắt đầu vào ngày 15/10 tới đây.</p>
+                            </div>
+                            
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-anh-chup-ve-tinh-nasa-va-loi-ke-nhan-chung-the-gioi-duoi-long-dat-thuc-su-ton-tai-9289/" title="Ảnh chụp vệ tinh NASA và lời kể nhân chứng: Thế giới dưới lòng đất thực sự tồn tại">Ảnh chụp vệ tinh NASA và lời kể nhân chứng: Thế...</a></li>
+                                <li><a href="/chi-tiet-dau-vet-‘van-minh-hien-dai’-thoi-tien-su-9261/" title="Dấu vết ‘văn minh hiện đại’ thời tiền sử">Dấu vết ‘văn minh hiện đại’ thời tiền sử</a></li>
+                                <li><a href="/chi-tiet-nasa-phat-hien-hanh-tinh-ky-la-nhu-ho-den-‘hut’-het-anh-sang-chieu-toi-9250/" title="NASA phát hiện hành tinh kỳ lạ như hố đen, ‘hút’ hết ánh sáng chiếu tới">NASA phát hiện hành tinh kỳ lạ như hố đen, ‘hút’...</a></li>
+                                <li><a href="/chi-tiet-kich-thuoc-mat-troi-thuc-su-la-bao-nhieu-9102/" title="Kích thước mặt trời thực sự là bao nhiêu?">Kích thước mặt trời thực sự là bao nhiêu?</a></li></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="group-news group-news-rols" >
+                    	<h2 class="title"><img src="/css/skin/icon-title.png" align="left" title="Khác" alt="Khác" />
+                            <a href="/suc-khoe/" title="Sức Khỏe"><span>Sức Khỏe</span></a></h2>
+                        <div class="content">
+                        	<div class="box-news-ind news">
+                            	<a href="/chi-tiet-uong-va-khong-nen-uong-nao-sau-khi-thuc-day-buoi-sang-9433/" title="Uống và không nên uống nào sau khi thức dậy buổi sáng?">
+                                <strong>Uống và không nên uống nào sau khi thức...</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_uong-va-khong-nen-uong-nao-sau-khi-thuc-day-buoi-sang.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">2/11/2017</span>
+                                <p>Một ly nước uống sau khi thức dậy buổi sáng sẽ giúp bạn thanh lọc cơ thể, bổ sung nước, dinh dưỡng...</p>
+                            </div>
+                            
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-o-gan-noi-co-nuoc-giup-than-tam-an-lanh-9314/" title="Ở gần nơi có nước giúp thân, tâm an lành">Ở gần nơi có nước giúp thân, tâm an lành</a></li>
+                                <li><a href="/chi-tiet-giac-ngu-quan-trong-the-nao-9248/" title="Giấc ngủ quan trọng thế nào?">Giấc ngủ quan trọng thế nào?</a></li>
+                                <li><a href="/chi-tiet-tac-dung-chong-ung-thu-cua-tra-9206/" title="Tác dụng chống ung thư của trà">Tác dụng chống ung thư của trà</a></li>
+                                <li><a href="/chi-tiet-dot-quy-hay-nho-cach-nay-de-phong-than-va-giup-nguoi-9167/" title="Đột quỵ: hãy nhớ cách này để phòng thân và giúp người">Đột quỵ: hãy nhớ cách này để phòng thân và giúp...</a></li></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="group-news group-news-rols" style="margin-right:0px;">
+                    	<h2 class="title"><img src="/css/skin/icon-title.png" align="left" title="Khác" alt="Khác" />
+                            <a href="/ket-noi-yeu-thuong/" title="Kết Nối Yêu Thương"><span>Kết Nối Yêu Thương</span></a></h2>
+                        <div class="content">
+                        	<div class="box-news-ind news">
+                            	<a href="/chi-tiet-cu-gia-90-tuoi-cham-vo-bai-liet-con-gai-ung-thu-nao-9105/" title="Cụ già 90 tuổi chăm vợ bại liệt, con gái ung thư não">
+                                <strong>Cụ già 90 tuổi chăm vợ bại liệt, con...</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_cu-gia-90-tuoi-cham-vo-bai-liet-con-gai-ung-thu-nao.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">2/8/2017</span>
+                                <p>Trong căn nhà xập xệ cuối ngõ, nhiều năm nay cụ Châu cùng người vợ bại liệt và con gái ung thư não...</p>
+                            </div>
+                            
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-bon-chi-em-bi-xuong-thuy-tinh-ca-nha-khon-kho-kiet-que-8970/" title="Bốn chị em bị xương thủy tinh, cả nhà khốn khó kiệt quệ">Bốn chị em bị xương thủy tinh, cả nhà khốn khó...</a></li>
+                                <li><a href="/chi-tiet-hy-vong-mong-manh-cua-nguoi-me-ngheo-benh-nang-8683/" title="Hy vọng mong manh của người mẹ nghèo bệnh nặng">Hy vọng mong manh của người mẹ nghèo bệnh nặng</a></li>
+                                <li><a href="/chi-tiet-nguoi-dan-ong-meu-mao-xin-cuu-chiec-chan-bi-gay-8348/" title="Người đàn ông mếu máo xin cứu chiếc chân bị gãy">Người đàn ông mếu máo xin cứu chiếc chân bị gãy</a></li>
+                                <li><a href="/chi-tiet-anh-mat-buon-cua-cau-be-co-so-phan-tro-treu-8257/" title="Ánh mắt buồn của cậu bé có số phận trớ trêu">Ánh mắt buồn của cậu bé có số phận trớ trêu</a></li></ul>
+                        </div>
+                    </div>
+                                     
+                    <div class="group-news">
+                    	<h2 class="title">
+                        	<img src="/css/skin/icon-title.png" align="left" title="Thư Giãn" alt="Thư Giãn" />
+                        	<a href="/thu-gian/" title="Thư Giãn"><span>Thư Giãn</span></a><p>
+                            	
+                                <a href="/nhac-thien/" title="Nhạc Thiền">Nhạc Thiền</a>  |  
+                                <a href="/anh-dep-va-xua/" title="Ảnh Đẹp và Xưa">Ảnh Đẹp và Xưa</a>  |  
+                                <a href="/chuyen-la/" title="Chuyện Lạ">Chuyện Lạ</a>  |  
+                                <a href="/vui-vui/" title="Vui Vui">Vui Vui</a>  
+                            </p>
+                        </h2>
+                        <div class="content">
+                        	<div class="box-news-ind">
+                            	<a href="/chi-tiet-cuoi-ra-nuoc-mat-voi-loi-nhan-tin-khong-dau-8971/" title="'Cười ra nước mắt' với lỗi nhắn tin không dấu">
+                                <strong>'Cười ra nước mắt' với lỗi nhắn tin không dấu</strong>
+                                <div class="pict"><img src="/Images/News/thumb/chuaadida_thumb_cuoi-ra-nuoc-mat-voi-loi-nhan-tin-khong-dau.jpg" /></div>
+                                </a><br />
+                                <span class="news_day">27/6/2017</span>
+                                <p>Do thói quen nhắn tin không dấu tiếng việt mà các khổ chủ rơi vào cảnh 'dở khóc dở cười' vì những hiểu lầm vô...</p>
+                                <p align="right"><a href="/chi-tiet-cuoi-ra-nuoc-mat-voi-loi-nhan-tin-khong-dau-8971/" title="'Cười ra nước mắt' với lỗi nhắn tin không dấu"><strong>&raquo; Xem thêm</strong></a></p>
+                            </div>
+                            <ul class="list-news-ind">
+                                <li><a href="/chi-tiet-anh-hai-huoc-cong-nghe-hien-dai-thay-doi-cuoc-song-cua-meo-8682/" title="Ảnh hài hước công nghệ hiện đại thay đổi cuộc sống của... mèo">Ảnh hài hước công nghệ hiện đại...</a></li>
+                                <li><a href="/chi-tiet-top-10-buc-anh-an-tuong-nhat-nam-2016-cua-reuters-8440/" title="Top 10 bức ảnh ấn tượng nhất năm 2016 của Reuters">Top 10 bức ảnh ấn tượng nhất năm...</a></li>
+                                <li><a href="/chi-tiet-roi-nuoc-mat-khi-biet-su-that-ve-hanh-dong-vai-lay-cua-nang-cho-nay-8389/" title="Rơi nước mắt khi biết sự thật về hành động vái lạy của nàng chó này">Rơi nước mắt khi biết sự thật về...</a></li>
+                                <li><a href="/chi-tiet-nhung-canh-dep-ngoan-muc-cua-trai-dat-8380/" title="Những cảnh đẹp ngoạn mục của trái đất ">Những cảnh đẹp ngoạn mục của trái...</a></li>
+                                <li><a href="/chi-tiet-nguoi-dan-ong-hanh-huong-107-000-km-8291/" title="Người đàn ông hành hương 107.000 km">Người đàn ông hành hương 107.000 km</a></li></ul>
+                        </div>
+                    </div>                    
+                </div>
+                
+<div class="layoutright">
+      <div class="noice">
+            <a href="/thong-bao/khoa-tu-hoc-phat-phap-uc-chau-ky-17-cua-giao-hoi-pgvntnhn-tai-udl-ttl/" title="KHÓA TU HỌC PHẬT PHÁP ÚC CHÂU KỲ 17 của Giáo Hội PGVNTNHN tại UĐL - TTL">KHÓA TU HỌC PHẬT PHÁP ÚC CHÂU KỲ 17 của Giáo Hội PGVNTNHN tại UĐL - TTL</a>
+            <p>Khóa Tu Học Phật Pháp Úc Châu Kỳ 17 của Giáo Hội PGVNTNHN tại UĐL - TTL được tổ chức tại vùng...</p>
+            <p><a href="/thong-bao/khoa-tu-hoc-phat-phap-uc-chau-ky-17-cua-giao-hoi-pgvntnhn-tai-udl-ttl/" title="KHÓA TU HỌC PHẬT PHÁP ÚC CHÂU KỲ 17 của Giáo Hội PGVNTNHN tại UĐL - TTL" style="text-transform:none; text-decoration:underline;">Xem chi tiết</a></p>
+    </div>
+    <div id="tabs">
+        <ul>
+            <li><a href="#tab-3">Tin xem nhiều</a></li><li><a href="#tab-4">Phản hồi</a></li>
+        </ul>
+        <div id="tab-3">
+            
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-duc-the-ton-mau-ni-la-bac-dai-hieu-3095/" title="Đức Thế Tôn Mâu Ni là bậc đại hiếu">
+                    <div class="pictThumbNewsTab"><img  alt="Đức Thế Tôn Mâu Ni là bậc đại hiếu" src="/Images/News/thumb/đức phật giảng giải cho vua cha suddhodana _10184958110614.jpg"></div>
+                Đức Thế Tôn Mâu Ni là bậc đại hiếu</a><br />
+                <span class="news_day">6/11/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-day-co-phai-hinh-anh-duc-phat-thich-ca-mau-ni-khong-2424/" title="Đây có phải hình ảnh ĐỨC PHẬT THÍCH CA MÂU NI không?">
+                    <div class="pictThumbNewsTab"><img  alt="Đây có phải hình ảnh ĐỨC PHẬT THÍCH CA MÂU NI không?" src="/Images/News/thumb/có phải đức thế tôn_08064684090514.jpg"></div>
+                Đây có phải hình ảnh ĐỨC PHẬT THÍCH CA MÂU NI không?</a><br />
+                <span class="news_day">5/9/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-duc-phat-thich-ca-mau-ni-1970/" title="Đức Phật Thích Ca Mâu Ni">
+                    <div class="pictThumbNewsTab"><img  alt="Đức Phật Thích Ca Mâu Ni" src="/Images/News/thumb/duc phat thich ca_12560576080514.jpg"></div>
+                Đức Phật Thích Ca Mâu Ni</a><br />
+                <span class="news_day">6/8/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-luoc-su-thanh-lap-chua-a-di-da-2466/" title="LƯỢC SỬ THÀNH LẬP CHÙA A DI ĐÀ">
+                    <div class="pictThumbNewsTab"><img  alt="LƯỢC SỬ THÀNH LẬP CHÙA A DI ĐÀ" src="/Images/News/thumb/chuaadida_06180465090914.png"></div>
+                LƯỢC SỬ THÀNH LẬP CHÙA A DI ĐÀ</a><br />
+                <span class="news_day">9/9/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-duc-phat-a-di-da-va-nam-vi-bo-tat-1971/" title="Đức Phật A Di Đà và năm vị Bồ tát">
+                    <div class="pictThumbNewsTab"><img  alt="Đức Phật A Di Đà và năm vị Bồ tát" src="/Images/News/thumb/phat-adida-20_04551220080614.jpg"></div>
+                Đức Phật A Di Đà và năm vị Bồ tát</a><br />
+                <span class="news_day">6/8/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-loi-duc-phat-kinh-phap-cu-2182/" title="Lời Đức Phật (Kinh Pháp Cú)">
+                    <div class="pictThumbNewsTab"><img  alt="Lời Đức Phật (Kinh Pháp Cú)" src="/Images/News/thumb/lời đức phật7_05021985082414.jpg"></div>
+                Lời Đức Phật (Kinh Pháp Cú)</a><br />
+                <span class="news_day">27/8/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-toan-canh-chua-a-di-da-2467/" title="Toàn cảnh Chùa A Di Đà">
+                    <div class="pictThumbNewsTab"><img  alt="Toàn cảnh Chùa A Di Đà" src="/Images/News/thumb/chuaadida_06380656090914.png"></div>
+                Toàn cảnh Chùa A Di Đà</a><br />
+                <span class="news_day">9/9/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-phan-biet-hoa-sala-hoa-vo-uu-va-hoa-ky-lan-2953/" title="Phân biệt hoa Sala, hoa Vô Ưu và hoa Kỳ Lân">
+                    <div class="pictThumbNewsTab"><img  alt="Phân biệt hoa Sala, hoa Vô Ưu và hoa Kỳ Lân" src="/Images/News/thumb/hoa sa la ở khu tháp đức phật nhập niết bàn ở câu _08345785103114.jpg"></div>
+                Phân biệt hoa Sala, hoa Vô Ưu và hoa Kỳ Lân</a><br />
+                <span class="news_day">31/10/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-nien-dai-xuat-gia-thanh-dao-duc-bon-su-thich-ca-trong-kinh-phat-ban-hanh-tap-8734/" title="Niên đại xuất gia, thành đạo đức Bổn Sư Thích Ca trong kinh Phật Bản Hạnh Tập">
+                    <div class="pictThumbNewsTab"><img  alt="Niên đại xuất gia, thành đạo đức Bổn Sư Thích Ca trong kinh Phật Bản Hạnh Tập" src="/Images/News/thumb/chuaadida_thumb_nien-dai-xuat-gia-thanh-dao-duc-bon-su-thich-ca-trong-kinh-phat-ban-hanh-tap.jpg"></div>
+                Niên đại xuất gia, thành đạo đức Bổn Sư Thích Ca trong kinh Phật Bản Hạnh Tập</a><br />
+                <span class="news_day">12/12/2014</span>
+            </div>
+            <div class="boxNewsTabRight">
+                <a href="/chi-tiet-duc-phat-a-di-da-3775/" title="Đức Phật A Di Đà">
+                    <div class="pictThumbNewsTab"><img  alt="Đức Phật A Di Đà" src="/Images/News/thumb/bizmac_thumb_28412014_104122.jpg"></div>
+                Đức Phật A Di Đà</a><br />
+                <span class="news_day">28/10/2014</span>
+            </div>
+        </div>
+        <div id="tab-4">
+             
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Hoàng Long</strong><br />
+                <span class="news_day">1/1/2018</span>
+                <div class="desc">Vừa rồi hay tin, an ninh Tp.Bảo Lộc lại xuất hiện tại chùa Linh Quang ngăn cản không cho phát quà từ thiện - có lẽ sợ bên ủng hộ thầy Thiện Thành sẽ tăng thêm chăng?
+An ninh tôn giáo ơi là an ninh tôn giáo, thật không thể nào tin được!</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Thanh Tịnh</strong><br />
+                <span class="news_day">28/12/2017</span>
+                <div class="desc"> 7 nămqua không phải thầy truyền dậy cho chúng tôi sao, hay bạn nói phải đối xử có đức với ông hưởng bà ca, phật tử chúng tôi và thầy thành không ai phủ nhận công của các vị tiền bối như ông hưởng, bà ca, cô lan nhưng quý vị phải hiểu 1 điều rằng tại sao lại đến bước đường này. các vị tiền bối đi trước ông hưởng bà ca, ổng hưởng đó là cụ dãnh, cụ tuất, cụ văn. cụ tuất đã mất bao công sức đi xn đất nghĩa trang (chí có các vị cao niên còn nhớ) thế mà vợ chồng bà ca đời chùa giao lại cho vợ chông bà quản lý, đức ở đây là đâu?. với ông hưởng nếu khi nói công khai tài chánh ông kê việc thu chi tiền cúng dường của bà con rõ rằng thì có phải ôm tiền, con dấu lên chùa phước huệ không: đức trong việc này là ở đâu? đối với cô lan người sau nay có công đức cúng dường nếu không nghe lời xúi dục của ông hưởng thì công đức của cô với chùa linh quang là vô tận, nghe lời xúi dục làm chuyện sai trái uống công đức lâu nay, đức đây ở đâu?. còn với thầy thành khi nóng giận có thể không kiểm soát được làm người nghe khó chịu nhưng khi hết nóng cũng thấy điểm sai trong lúc nóng nảy, cũng xin mọi người hoan hỉ vì thầy cũng là con người, nhưng đã toàn tâm tu bổ chùa linh quang tuy không to bằng các chùa lớn nhưng cũng đủ chỗ tu học cho phậtt tử chùa linh quang, và phật tử thập phương. giáo hội sao không có cái nhìn thoáng đánh giá công bằng việc làm của từng người đừng nhìn sai lệnh. hay an ninh là người thực thi công lý lại mang yếu tố các nhân xử lý công việc suy xét đấu đáo những việc xảy ra. công việc chùa linh quang rất đơn giản tại sao làm cho rắc rối thêm, tai tiếng với tôn giáo bạn, chấp nhận việc tốt và giúp sữa chữa điều chưa tốt để cũng nhau tiến bộ. giáo hội, chính quyền, an ninh có nên giúp đỡ thầy thiện thành và phật tử chùa linh quang hoàn thiện hơn, đừng dùng sức mạnh mà ép buộc.😶</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Thiên Hạ</strong><br />
+                <span class="news_day">27/12/2017</span>
+                <div class="desc">những ván đề nhà báo nêu ra đều chính xác và công bắng những câu hỏi tai sao trong 7 năm qua giao hội né tránh, chính quyền trong 7 năm qua đều né tránh. đến nay vì nguyên nhân gì mà cả giáo hội và chính quyền mạnh tay với linh quang như vậy. chính quyền và giáo hội làm đúng thì phật tử va thầy thành sẽ chấp hành nhưng đừng dùng quyền lực vô lý ép phải làm điều này điều kia, trước khi trách thầy thành và phật tử chùa linh quang thì phải xem lại hành động của mình để dẫn đến kết quả như ngày hôm nay.đừng dùng thầy quảng ninh làm con chốt thí làm cho phật tử thêm nghiệp chướng. các thầy được tu là do phước báu hay do nghiệp kiếp trước tạo nên, đi tu được là do duyên tại sao lại đối xử với nhau như vậy, cùng 1 cha là ĐỨC PHẬT thì tại sao gây khó dễ cho nhau, sao không tạo duyên cho các bậc đồng tu, lại phân biệt đối xử. từ " HOAN HỈ" trên môi của các thầy để phật tử học hỏi và tu học vậy mà chỉ đêm lại cho phật tử sự phiền muộn. 7 năm kéo dài mong đến đây sẽ kết thúc, chính quyền đừng nhúng tay quá sâu, giáo hội bảo lộc hãy mở lòng với thầy thiện thành, để thầy thành có cơ hội giao lưu, tu học tại bảo lộc, để chùa linh quang trở về bình yên và phát triển</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Thanh Bình</strong><br />
+                <span class="news_day">27/12/2017</span>
+                <div class="desc">Phật tử chúng tôi không muốn đối xử tệ với thầy quảng ninh. nhưng chính thầy đã bắt chúng tôi làm như vậy, tại sao người của thầy quảng ninh cứ dựa vào giấy được chuyển về mà xuống gây sự với phật tử chùa linh quang, nếu như thầy quảng nình hàng động như thầy quảng lợi thì phật tử chùa linh quang sằng sàng sám hối hành động của minh như đến thời điểm này thì không còn sám hối gì cả. thầy mau đi chứ không còn ở đó thì thầy chỉ làm cho phật tử mạng trọng tội vì không đối xử tốt với tăng. nhưng tăng phải làm đúng thì phật tử mới nể,đừng dùng quyền lực mà ép phật tử phải làm theo, giáo hội nói thầy thầy chống đối, xúi dục phật tử chống đổi, hỏi thầy thanh nhật nhé khi lần đầu tiên thầy xuống người quyền lục của linh quang là bà ca lúc này chưa chống đối thầy thành thì có để thầy thành xúi dục kg hay bà sẽ ra uy trước mặt thầy thành và phật tử, không cho thầy làm việc.đến lần này thầy xuống đọ quyết định nói thầy thành xúi dục, thầy chưa tôn trọng phật tử, xem chùa linh quang như không người, đọc quyết định cho ai nghe mà nói xúi dục, ở ví trí đó thì thầy phải hành động cho đúng để còn ngồi vị trí đó lâu dài, không thì cho rớt chức sớm đấy. muốn thầy thành và phật tử không vi phạm pháp luật thì chính quyền phải làm đúng, đùng dùng quyền lực mà bắt ép làm điều này điều nọ, 7 năm qua chùa linh quang bình yên, sống đúng pháp luật nên đừng để chùa linh quang dạy sóng</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Cong Bang</strong><br />
+                <span class="news_day">27/12/2017</span>
+                <div class="desc">két thúc câu chuyện kéo dài của chùa linh quang trong 7 năm không phải trong sớm chiều mà có thể ổn thỏa, nhưng theo công tâm của một người phật tử, hay là vị tu sỹ mọi người có nhận xét như thế nào- phe chống đối có phải phật tử chùa linh quang hay thầy thiện thành không công nhận công sức của họ không hay là chính họ đã gạt đi công sức của họ bấy lâu nay xây dưng. xin hỏi mọi người nếu khi thầy thiện thành về chấp nhận bù nhìn cho ông hưởng là chúng trưởng vẫn lấy tiền công đức sài thì chùa linh quang có như ngày hôm nay không. đối với bà ca bà không thiếu tiền thích lãnh đạo thì có phải thầy thiện thành muốn yên thân phải nghe lời bà ca du đúng hay sai không?. có thể cách sự xự của thầy thành không khóe léo vì thích sự rõ ràng và thẳng thắng nên đã làm cho mọi người không hài lòng vê hành xử của mình. phải bắt thầy phải hành sự theo đúng tư cách thầy trong lời ăn tiếng nói thì tại sao khi thầy nói 2 vị lão làng không nghe rồi cho rằng chống lại họ, quay ra chống đối nói thầy không biết đến cống đức họ tạo ra, nếu 2 vị lão làng đó biết 2 chữ " thầy - phật tử" thì họ phải nghe lời thầy hay thầy nghe lời họ, để rồi họ lên giáo hội đặt điều nên mới gây ra sóng gió như bây giờ.</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>huynh hao kiet</strong><br />
+                <span class="news_day">27/12/2017</span>
+                <div class="desc">ngưỡng giác linh cố đại lão hòa thượng THƯỢNG THIỆN HẠ SANH
+hội nhập ta bà vãng lai tự tại nam mô tiếp dẫn đạo sư a di đà phật</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Trần Vươn Tới</strong><br />
+                <span class="news_day">23/12/2017</span>
+                <div class="desc">Lãnh Đạo Hội Đồng Trị Sự Trung Ương Giáo Hội Phật Giáo Việt Nam va lãnh đạo Ban Trị Sự Phật Giáo Tỉnh Bà Rịa-Vũng Tàu nghĩ ra sao cho số phận Phật Giáo Việt Nam khi Trường các trường học và Đại Học Bà Rịa-Vũng Tàu số 80 Trương Công Định P3 Vũng Tàu đem thiên chúa vào tổ chức cho sinh viên như thế Luật Giáo Dục và Luật Tôn Giáo sắp tới đề ra công bằng ở đâu với Phật Giáo và Lãnh Đạo Sở Giáo Dục Nghệ an tạo điều kiện không thi cử vào từ ngày hôm nay đến hết 25/12/2017 cho học sinh được tham gia Lễ Giáng Sinh và không tổ chức thi cử hay kiểm tra gây áp lực cho học sinh tại Nghệ An</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>thiện duyên</strong><br />
+                <span class="news_day">20/12/2017</span>
+                <div class="desc">thói đời đã ghét thì mấy khi nghĩa thốt cho người, có thể thêu dệt những chuyện cao siêu hơn, chuyển kéo dài 7 năm với những biến cố phức tạp, đọc bài 7 sẽ làm có những đọc giả đang quan tâm thực sự hoang mang tại sao đi tu cần thanh tịnh tu tâm dưỡng tánh nhưng tại sao tạ chua linh quang lại nhiều phiền muộn thế này làm cho người cần thanh tịnh không muỗn đi chùa vì muỗn trạnh ồn ào ngoài đời vào chùa chuyện còn đau đầu hơn, sự thật chỉ mong nhà báo tìm hiểu trả lại sự yên tĩnh cho chùa linh quang, tranh bội nhọ danh dự của thầy thành để thầy tu hành được thanh tịnh, nhà báo hãy xem lại bà minh ngọc là ai mà phật tử chúng tôi không biết, hỏi xem thầy nguyên thái xem nội dung của cô minh ngọc có đúng không, đến bài này thật sự mọi người đã mệt mọi, vì tranh gianh mà nói xấu không thương tiết, sự đấu tranh giành lại sự công bằng cũng gian nan nhưng mong sự thật sớm được tìm hiểu ngọn ngành vì bà con sống lâu năm với thầy thành, yêu mếm và kính trọng thầy mong trả lại danh dự cho thầy, vì sự vu khống này rất nặng đối với tu sĩ</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>HUYNH BINH</strong><br />
+                <span class="news_day">20/12/2017</span>
+                <div class="desc">KHI NGHE CHUYỆN, THÌ CHUYỆN NÀY ĐÃ CÁCH ĐÂY RẤT LÂU, TỪ KHI NHÓM ÔNG HƯỞNG BẮT ĐẦU CHỐNG ĐỐI (2011-2012) CHO NGƯỜI ĐI ĐIỀU TRA. NHƯNG NGƯỜI TÔI BIẾT LÀ BÀ NGUYỄN THỊ CHUNG PHẬT CHÙA PHƯỚC HUÊ CHỈ CHƠI THÂN VỚI CÔ LAN, CHẰNG CÓ TÍ CÔNG ĐỨC CÚNG DƯỜNG GÌ CHO CHÙA LINH QUANG, VÀ BÀ NGUYỄN THỊ LAN LÀ NGƯỜI CÚNG DƯỜNG, CÓ CÔNG VUN XÉN CHO CHÙA lINH QUANG NHIỀU NHẤT VÀO THỜI ĐIỂN ĐÓ, KHI CÔ LAN QUAY LƯNG VỚI CHÙA AI CŨNG TIẾC VÌ BAO NHIÊU CÔNG ĐỨC MÀ QUAY LẠI CHỐNG THÌ PHƯỚC ĐỨC SẼ BỊ MẤT HẾT, MỌI NGƯỜI CHỈ NÓI CHỊU THÔI VÌ CÔ LAN CÓ MỐI QUAN HỆ ĐẶC BIỆT VỚI ÔNG HƯỞNG NÊN ÔNG HƯỞNG NÓI SAO CÔ NGHE VẬY  CHỨ NGHĨ CŨNG TIẾC CHO CÔNG ĐỨC CỦA CÔ.CÒN GIỜ XUẤT HIỆN BÀ MINH NGỌC ĐÂY LÀ PHÁP DANH CỦA BÀ CHUNG HAY SAO MÀ NHÂN VẬT MINH NGỌC PHẬT TỬ CHÙA LINH QUANG KHÔNG BIẾT LÀ AI.
+NHƯ NỘI DUNG HỌ NÓI CÓ ĐÚNG KHÔNG, NẾU ĐÚNG TẠI SAO TỪ NHỮNG NĂM 2011-2012 THẦY THIỆN THÀNH VẪN Ở ĐÂY CHO ĐẾN 2017, THÔNG TIN CÓ CHÍNH XÁC KHÔNG, NHÀ BÁO HÃY PHỎNG VẤN HÒA THƯỢNG THÍCH QUẢNG HIỂN, THẦY NGUYÊN THÁI XEM THÔNG TIN THẦY NÓI NHƯ VẬY CÓ ĐÚNG KHÔNG ?</div>
+            </div>
+            
+            <div class="boxNewsTabRight">
+               <i class="fa fa-comment"></i> <strong>Hoàng Long</strong><br />
+                <span class="news_day">17/12/2017</span>
+                <div class="desc">Chuyện chùa Linh Quang ai cũng lờ mờ biết nhưng không tường minh, nay xin kể lại như sau: Chuyện bắt đầu là từ ông chúng trưởng "có tâm" tên H tham nhũng ngân sách nhà chùa nên bị khai trừ, bà C chúng phó rất nhiệt tình với chùa Linh Quang liền đả đảo & không đội trời chung với ông chúng trưởng tham nhũng H và theo phò thầy T.T - cùng phật tử xin khắp nơi & bà còn thể hiện sự nhiệt tình bằng cách làm đơn thỉnh nguyện với các chữ ký của rất nhiều phật tử khác và còn quỳ cả buổi để xin thầy T.T làm trụ trì ở nhiều chùa có lãnh đạo giáo hội Phật giáo Lâm Đồng ở Đà Lạt. Tưởng rằng bà có tâm tốt, là phật tử tốt ai dè bà không tham những, không mê tiền nhưng nhưng lại mê... quyền lực - mọi việc phải nhất nhất theo ý bà mới được, muốn một tay thao túng mọi chuyện. Bởi thầy T.T không đồng ý nên bà phật ý tuyên bố: Tao đưa ổng (thầy T.T) về được thì đuổi đi được!
+Thế là từ đó bà ra sức chống lại người dám "cãi" lại bà, rồi kết nghĩa chị em với kẻ "không đội trời chung là ông chúng trưởng tham nhũng H vì giờ đây cả hai đều có kẻ thù chung! Bà lobby, bà chơi đủ mọi bài kể cả đặt điều, vu khống, mạ lị & tất nhiên ông T con bà C bên an ninh phải theo ý bà... và sự việc phát triển rất tốt theo ý bà, ắt hẳn bà C & ông H đang khoái chí lắm!
+Là Phật tử "già" càng ngày càng gần đất, xa trời mà tham sân si quá. Mọi việc có lẽ sắp thành theo toan tính của bà & đồng bọn chắc hẳn là đắc chí lắm nhưng rồi khi xuôi tay được nằm trong nghĩa trang Phật giáo thì cũng là câu chuyện cười cho các phật tử đã yên nghỉ nơi đây chứ ích chi? Làm việc xấu với ngôi tam bảo thì muôn đời không xóa được mà tổn phúc cho con, cháu nữa đó bà ơi!</div>
+            </div>
+            
+        </div>
+	</div>
+    
+    <div class="box-right gallery">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left" alt="hình ảnh" />
+            <a href="/hinh-anh/" title="" alt=""><span>hình ảnh</span></a>
+            <p><a  title="hình ảnh" href="/hinh-anh/">&raquo; Xem tất cả</a></p>
+        </h2>
+        <div class="content gallery clearfix">
+            
+            <div class="pict">
+                <a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-diem-cuoi-17-1-2018-tai-xa-vinh-thai-nha-trang-khanh-hoa/" title="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI ĐIỂM CUỐI (17.1.2018) TẠI XÃ VĨNH THÁI, NHA TRANG - KHÁNH HOÀ"><img alt="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI ĐIỂM CUỐI (17.1.2018) TẠI XÃ VĨNH THÁI, NHA TRANG - KHÁNH HOÀ" src="/Images/Gallery/chuaadida_Gallery_Cate_thumb_pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-diem-cuoi-17-1-2018-tai-xa-vinh-thai-nha-trang-khanh-hoa.jpeg"></a>
+                <div class="desc"><a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-diem-cuoi-17-1-2018-tai-xa-vinh-thai-nha-trang-khanh-hoa/" title="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI ĐIỂM CUỐI (17.1.2018) TẠI XÃ VĨNH THÁI, NHA TRANG - KHÁNH HOÀ">PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI ĐIỂM CUỐI (17.1.2018) TẠI XÃ VĨNH THÁI, NHA TRANG - KHÁNH HOÀ (31 hình)</a></div>
+            </div>
+            <div class="pict">
+                <a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-16-1-2018-tai-ninh-hoa-khanh-hoa/" title="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI NINH HOÀ - KHÁNH HOÀ"><img alt="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI NINH HOÀ - KHÁNH HOÀ" src="/Images/Gallery/chuaadida_Gallery_Cate_thumb_pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-16-1-2018-tai-ninh-hoa-khanh-hoa.jpeg"></a>
+                <div class="desc"><a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-16-1-2018-tai-ninh-hoa-khanh-hoa/" title="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI NINH HOÀ - KHÁNH HOÀ">PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI NINH HOÀ - KHÁNH HOÀ (58 hình)</a></div>
+            </div>
+            <div class="pict">
+                <a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-16-1-2018-tai-chua-linh-son-van-ninh-khanh-hoa/" title="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI CHÙA LINH SƠN VẠN NINH - KHÁNH HOÀ"><img alt="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI CHÙA LINH SƠN VẠN NINH - KHÁNH HOÀ" src="/Images/Gallery/chuaadida_Gallery_Cate_thumb_pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-16-1-2018-tai-chua-linh-son-van-ninh-khanh-hoa.jpeg"></a>
+                <div class="desc"><a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-16-1-2018-tai-chua-linh-son-van-ninh-khanh-hoa/" title="PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI CHÙA LINH SƠN VẠN NINH - KHÁNH HOÀ">PG ÚC CHÂU UỶ LẠO ĐỒNG BÀO BỊ THIÊN TAI NGÀY 16.1.2018 TẠI CHÙA LINH SƠN VẠN NINH - KHÁNH HOÀ (65 hình)</a></div>
+            </div>
+            <div class="pict">
+                <a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-9-1-2018-tai-xa-vinh-luong-tp-nha-trang-khanh-hoa/" title="Pg Úc Châu Uỷ Lạo Đồng Bào Bị Thiên Tai Ngày 9.1.2018 Tại Xã Vĩnh Lương, Tp Nha Trang - Khánh Hoà"><img alt="Pg Úc Châu Uỷ Lạo Đồng Bào Bị Thiên Tai Ngày 9.1.2018 Tại Xã Vĩnh Lương, Tp Nha Trang - Khánh Hoà" src="/Images/Gallery/chuaadida_Gallery_Cate_thumb_pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-9-1-2018-tai-xa-vinh-luong-tp-nha-trang-khanh-hoa.jpeg"></a>
+                <div class="desc"><a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-9-1-2018-tai-xa-vinh-luong-tp-nha-trang-khanh-hoa/" title="Pg Úc Châu Uỷ Lạo Đồng Bào Bị Thiên Tai Ngày 9.1.2018 Tại Xã Vĩnh Lương, Tp Nha Trang - Khánh Hoà">Pg Úc Châu Uỷ Lạo Đồng Bào Bị Thiên Tai Ngày 9.1.2018 Tại Xã Vĩnh Lương, Tp Nha Trang - Khánh Hoà (61 hình)</a></div>
+            </div>
+            <div class="pict">
+                <a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-8-1-2018-tai-dao-hon-lon-dao-van-thanh-van-ninh-khanh-hoa/" title="PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 8.1.2018 tại Đảo Hòn Lớn, Đảo Vạn Thành, Vạn Ninh - Khánh Hoà"><img alt="PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 8.1.2018 tại Đảo Hòn Lớn, Đảo Vạn Thành, Vạn Ninh - Khánh Hoà" src="/Images/Gallery/chuaadida_Gallery_Cate_thumb_pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-8-1-2018-tai-dao-hon-lon-dao-van-thanh-van-ninh-khanh-hoa.jpeg"></a>
+                <div class="desc"><a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-8-1-2018-tai-dao-hon-lon-dao-van-thanh-van-ninh-khanh-hoa/" title="PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 8.1.2018 tại Đảo Hòn Lớn, Đảo Vạn Thành, Vạn Ninh - Khánh Hoà">PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 8.1.2018 tại Đảo Hòn Lớn, Đảo Vạn Thành, Vạn Ninh - Khánh Hoà (75 hình)</a></div>
+            </div>
+            <div class="pict">
+                <a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-7-1-2018-tai-thon-thuy-tu-xa-vinh-thai-tp-nha-trang-khanh-hoa/" title="PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 7.1.2018 tại Thôn Thuỷ Tú, Xã Vĩnh Thái. Tp Nha Trang - Khánh Hoà"><img alt="PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 7.1.2018 tại Thôn Thuỷ Tú, Xã Vĩnh Thái. Tp Nha Trang - Khánh Hoà" src="/Images/Gallery/chuaadida_Gallery_Cate_thumb_pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-7-1-2018-tai-thon-thuy-tu-xa-vinh-thai-tp-nha-trang-khanh-hoa.jpg"></a>
+                <div class="desc"><a href="/hinh-anh/chi-tiet-pg-uc-chau-uy-lao-dong-bao-bi-thien-tai-ngay-7-1-2018-tai-thon-thuy-tu-xa-vinh-thai-tp-nha-trang-khanh-hoa/" title="PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 7.1.2018 tại Thôn Thuỷ Tú, Xã Vĩnh Thái. Tp Nha Trang - Khánh Hoà">PG Úc Châu uỷ lạo đồng bào bị thiên tai ngày 7.1.2018 tại Thôn Thuỷ Tú, Xã Vĩnh Thái. Tp Nha Trang - Khánh Hoà (56 hình)</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="box-right">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left"  alt="Chân Dung Tăng Già" />
+            <a href="/to-su/" title="Chân Dung Tăng Già"><span>Chân Dung Tăng Già</span></a>
+        </h2>
+        <div class="content">
+            <div class="flex-container">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li><a href="/chi-tiet-truong-lao-hoa-thuong-thich-tri-tam-1934-2017-9343/" title="Trưởng lão Hoà Thượng Thích Trí Tâm (1934-2017)"><img src="/Images/News/thumb/chuaadida_thumb_truong-lao-hoa-thuong-thich-tri-tam-1934-2017.jpg" alt="Trưởng lão Hoà Thượng Thích Trí Tâm (1934-2017)">
+                            <div class="flex-caption">
+                                <span>Trưởng lão Hoà Thượng Thích Trí Tâm (1934-2017)</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-cuoc-doi-tu-va-hanh-dao-cua-thien-su-phap-loa-9327/" title="Cuộc đời tu và hành đạo của Thiền sư Pháp Loa"><img src="/Images/News/thumb/chuaadida_thumb_cuoc-doi-tu-va-hanh-dao-cua-thien-su-phap-loa.jpg" alt="Cuộc đời tu và hành đạo của Thiền sư Pháp Loa">
+                            <div class="flex-caption">
+                                <span>Cuộc đời tu và hành đạo của Thiền sư Pháp Loa</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-cuoc-doi-vi-quoc-su-dau-tien-cua-viet-nam-thien-su-khuong-viet-8925/" title="Cuộc đời vị quốc sư đầu tiên của Việt Nam - Thiền sư Khuông Việt"><img src="/Images/News/thumb/chuaadida_thumb_cuoc-doi-vi-quoc-su-dau-tien-cua-viet-nam-thien-su-khuong-viet1.jpg" alt="Cuộc đời vị quốc sư đầu tiên của Việt Nam - Thiền sư Khuông Việt">
+                            <div class="flex-caption">
+                                <span>Cuộc đời vị quốc sư đầu tiên của Việt Nam - Thiền sư Khuông Việt</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-truong-lao-hoa-thuong-thich-thien-binh-1933-2016-8204/" title="Trưởng lão Hoà Thượng Thích Thiện Bình (1933-2016)"><img src="/Images/News/thumb/chuaadida_thumb_truong-lao-hoa-thuong-thich-thien-binh-1933-2016.jpg" alt="Trưởng lão Hoà Thượng Thích Thiện Bình (1933-2016)">
+                            <div class="flex-caption">
+                                <span>Trưởng lão Hoà Thượng Thích Thiện Bình (1933-2016)</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-hoa-thuong-thich-chon-thien-1942-2016-8205/" title="Hòa thượng Thích Chơn Thiện (1942 - 2016)"><img src="/Images/News/thumb/chuaadida_thumb_hoa-thuong-thich-chon-thien-1942-2016.jpg" alt="Hòa thượng Thích Chơn Thiện (1942 - 2016)">
+                            <div class="flex-caption">
+                                <span>Hòa thượng Thích Chơn Thiện (1942 - 2016)</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-hoa-thuong-thich-tri-thu-dang-tu-tren-doi-trai-thuy-8117/" title="Hoà Thượng Thích Trí Thủ: Dáng từ trên đồi Trại Thủy"><img src="/Images/News/thumb/chuaadida_thumb_hoa-thuong-thich-tri-thu-dang-tu-tren-doi-trai-thuy.jpg" alt="Hoà Thượng Thích Trí Thủ: Dáng từ trên đồi Trại Thủy">
+                            <div class="flex-caption">
+                                <span>Hoà Thượng Thích Trí Thủ: Dáng từ trên đồi Trại Thủy</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-cuoc-doi-va-su-cong-hien-cho-phat-giao-cua-hoa-thuong-thich-don-hau-de-tam-tang-thong-ghpgvntn-8076/" title="Cuộc Đời Và Sự Cống Hiến Cho Phật Giáo Của Hòa Thượng Thích Đôn Hậu Đệ Tam Tăng Thống Ghpgvntn"><img src="/Images/News/thumb/chuaadida_thumb_cuoc-doi-va-su-cong-hien-cho-phat-giao-cua-hoa-thuong-thich-don-hau-de-tam-tang-thong-ghpgvntn.jpg" alt="Cuộc Đời Và Sự Cống Hiến Cho Phật Giáo Của Hòa Thượng Thích Đôn Hậu Đệ Tam Tăng Thống Ghpgvntn">
+                            <div class="flex-caption">
+                                <span>Cuộc Đời Và Sự Cống Hiến Cho Phật Giáo Của Hòa Thượng Thích Đôn Hậu Đệ Tam Tăng Thống Ghpgvntn</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-tieu-su-hoa-thuong-thich-thien-hoa-1918-–-1973-8046/" title="Tiểu Sử Hòa Thượng Thích Thiện Hoa (1918 – 1973)"><img src="/Images/News/thumb/chuaadida_thumb_tieu-su-hoa-thuong-thich-thien-hoa-1918-–-1973.jpg" alt="Tiểu Sử Hòa Thượng Thích Thiện Hoa (1918 – 1973)">
+                            <div class="flex-caption">
+                                <span>Tiểu Sử Hòa Thượng Thích Thiện Hoa (1918 – 1973)</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-thien-su-huong-hai-1628-1715-7579/" title="Thiền sư Hương Hải (1628 - 1715)"><img src="/Images/News/thumb/chuaadida_thumb_thien-su-huong-hai-1628-1715.jpg" alt="Thiền sư Hương Hải (1628 - 1715)">
+                            <div class="flex-caption">
+                                <span>Thiền sư Hương Hải (1628 - 1715)</span>
+                            </div>
+                            </a>
+                        </li>
+                        <li><a href="/chi-tiet-khuong-viet-thien-su-8926/" title="Khuông Việt thiền sư"><img src="/Images/News/thumb/chuaadida_thumb_khuong-viet-thien-su.jpg" alt="Khuông Việt thiền sư">
+                            <div class="flex-caption">
+                                <span>Khuông Việt thiền sư</span>
+                            </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>       
+    <div id="tab-container" class="tab-container">
+        <ul class="etabs">
+            
+            <li class="tab"><a href="#tabs1">Pháp Âm</a></li>
+            
+            <li class="tab"><a href="#tabs2">Phim Phật Giáo</a></li>
+            
+            <li class="tab"><a href="#tabs3">Âm Nhạc</a></li>
+            
+        </ul>
+        <div class="panel-container">
+            
+            <div id="tabs1">
+                
+                <div class="playvideo">
+                    <div id="mediaplayer1"></div>
+                </div>
+                <div class="tab_content">
+                    <ul>
+                        <li style="color: #ff6600">
+                            <strong>Tên bài</strong>
+                            <span style="float: right"><strong>Số lượt nghe</strong></span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-dai-nan-truoc-mat-quay-dau-la-bo/" title="Ðại Nạn Trước Mắt, Quay Ðầu Là Bờ">Ðại Nạn Trước Mắt, Quay Ðầu Là Bờ  </a>
+                            <span style="float: right">10917 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-khac-phuc-phien-nao-tap-khi/" title="Khac Phuc Phien Nao Tap Khi">Khac Phuc Phien Nao Tap Khi  </a>
+                            <span style="float: right">11516 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phap-ngu-cua-thien-su-hu-van-p1/" title="Pháp Ngữ Của Thiền Sư Hư Vân P1">Pháp Ngữ Của Thiền Sư Hư Vân P1  </a>
+                            <span style="float: right">7575 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phap-ngu-cua-thien-su-hu-van-p2/" title="Pháp Ngữ Của Thiền Sư Hư Vân P2">Pháp Ngữ Của Thiền Sư Hư Vân P2  </a>
+                            <span style="float: right">8035 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phat-hoc-quan-nghi-tap-12/" title="Phật Học Quần Nghi - Tập 1/2">Phật Học Quần Nghi - Tập 1/2  </a>
+                            <span style="float: right">7257 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phat-hoc-quan-nghi-tap-22/" title="Phật Học Quần Nghi - Tập 2/2">Phật Học Quần Nghi - Tập 2/2  </a>
+                            <span style="float: right">6888 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-an-lac-tu-tam/" title="An Lạc Từ Tâm">An Lạc Từ Tâm  </a>
+                            <span style="float: right">9999 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phat-hoc-van-dap-01-ly-binh-nam/" title="Phật Học Vấn Đáp 01, Lý Bỉnh Nam">Phật Học Vấn Đáp 01, Lý Bỉnh Nam  </a>
+                            <span style="float: right">10477 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phat-hoc-van-dap-02-ly-binh-nam/" title="Phật Học Vấn Đáp 02, Lý Bỉnh Nam">Phật Học Vấn Đáp 02, Lý Bỉnh Nam  </a>
+                            <span style="float: right">10011 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-phat-hoc-van-dap-03-ly-binh-nam/" title="Phật Học Vấn Đáp 03, Lý Bỉnh Nam">Phật Học Vấn Đáp 03, Lý Bỉnh Nam  </a>
+                            <span style="float: right">9871 </span>
+                        </li>
+                        
+                        <li style="border: none; padding-bottom: 0px;">
+                            <div align="right"><a href="/media/phap-am/">[ Xem tất cả ]</a></div>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div id="tabs2">
+                
+                <div class="playvideo">
+                    <div id="mediaplayer2"></div>
+                </div>
+                <div class="tab_content">
+                    <ul>
+                        <li style="color: #ff6600">
+                            <strong>Tên bài</strong>
+                            <span style="float: right"><strong>Số lượt nghe</strong></span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-55-55-ket-thuc-phim-buddha/" title="Buddha - Đức Phật - (tập 55/ 55): Kết thúc phim Buddha">Buddha - Đức Phật - (tập 55/ 55): Kết thúc phim...  </a>
+                            <span style="float: right">945 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-54-55-buddha-nhap-niet-ban-phan-chia-xa-loi/" title="Buddha - Đức Phật - (tập 54/ 55): Buddha nhập Niết-bàn, Phân chia xá lợi">Buddha - Đức Phật - (tập 54/ 55): Buddha nhập...  </a>
+                            <span style="float: right">1044 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-53-55-bua-an-cuoi-cung-cua-buddha/" title="Buddha - Đức Phật - (tập 53/ 55): Bữa ăn cuối cùng của Buddha">Buddha - Đức Phật - (tập 53/ 55): Bữa ăn cuối...  </a>
+                            <span style="float: right">1070 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-52-55-mogalana-va-sariptta-hai-nhap-niet-ban/" title="Buddha - Đức Phật - (tập 52/ 55): Mogalana và Sariptta Hai nhập Niết-bàn">Buddha - Đức Phật - (tập 52/ 55): Mogalana và...  </a>
+                            <span style="float: right">928 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-51-55-buddha-cuu-do-me-ngai-mogalana/" title="Buddha - Đức Phật - (tập 51/ 55): Buddha cứu độ mẹ ngài Mogalana">Buddha - Đức Phật - (tập 51/ 55): Buddha cứu độ...  </a>
+                            <span style="float: right">996 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-50-55-vua-ajātasattu-qui-y-buddha/" title="Buddha - Đức Phật - (tập 50/ 55): Vua Ajātasattu qui y Buddha">Buddha - Đức Phật - (tập 50/ 55): Vua Ajātasattu...  </a>
+                            <span style="float: right">792 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-49-55-nam-phap-pha-hoa-hop-tang-cua-devadatta/" title="Buddha - Đức Phật - (tập 49/ 55): Năm pháp phá hòa hợp tăng của Devadatta ">Buddha - Đức Phật - (tập 49/ 55): Năm pháp phá...  </a>
+                            <span style="float: right">1062 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-48-55-tinh-xa-jetavana-gap-nan/" title="Buddha - Đức Phật - (tập 48/ 55): Tinh xá Jetavana gặp nạn">Buddha - Đức Phật - (tập 48/ 55): Tinh xá...  </a>
+                            <span style="float: right">1090 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-47-55-thieu-nu-mang-thai-hai-buddha/" title="Buddha - Đức Phật - (tập 47/ 55): Thiếu nữ mang thai hại Buddha">Buddha - Đức Phật - (tập 47/ 55): Thiếu nữ mang...  </a>
+                            <span style="float: right">1131 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/movie.png">
+                            <a href="/media/play-buddha-duc-phat-tap-46-55-anan-gap-nan-cam-hoa-angulimala/" title="Buddha - Đức Phật - (tập 46/ 55):  Anan gặp nạn, cảm hóa Angulimala">Buddha - Đức Phật - (tập 46/ 55):  Anan gặp nạn,...  </a>
+                            <span style="float: right">1105 </span>
+                        </li>
+                        
+                        <li style="border: none; padding-bottom: 0px;">
+                            <div align="right"><a href="/media/phim-phat-giao/">[ Xem tất cả ]</a></div>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+            <div id="tabs3">
+                
+                <div class="playvideo">
+                    <div id="mediaplayer3"></div>
+                </div>
+                <div class="tab_content">
+                    <ul>
+                        <li style="color: #ff6600">
+                            <strong>Tên bài</strong>
+                            <span style="float: right"><strong>Số lượt nghe</strong></span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-mung-xuan-di-lac/" title="Mừng Xuân Di Lặc">Mừng Xuân Di Lặc  </a>
+                            <span style="float: right">9284 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-mua-xuan-em-di-le-chua/" title="Mùa Xuân Em Đi Lễ Chùa">Mùa Xuân Em Đi Lễ Chùa  </a>
+                            <span style="float: right">9207 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-tong-hop-nhac-thienthien-tinh-tam-an-nhien/" title="Tổng hợp Nhạc ThiềnThiền - Tĩnh Tâm - An Nhiên">Tổng hợp Nhạc ThiềnThiền - Tĩnh Tâm - An Nhiên  </a>
+                            <span style="float: right">10628 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-dong-song-toi-goi-ten-em/" title="Dòng Sông Tôi Gọi Tên Em">Dòng Sông Tôi Gọi Tên Em  </a>
+                            <span style="float: right">9950 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-mot-chuyen-gia-tu/" title="Một Chuyến Giả Từ">Một Chuyến Giả Từ  </a>
+                            <span style="float: right">9627 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-noi-mot-nhip-cau/" title="Nối Một Nhịp Cầu">Nối Một Nhịp Cầu  </a>
+                            <span style="float: right">10432 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-van-la-em-tho/" title="Vẫn là Em Thơ">Vẫn là Em Thơ  </a>
+                            <span style="float: right">9854 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-chu-cuoi-doi-hon/" title="Chú Cuội Dỗi Hờn">Chú Cuội Dỗi Hờn  </a>
+                            <span style="float: right">2869 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-que-huong-nguon-coi/" title="Quê Hương Nguồn Cội">Quê Hương Nguồn Cội  </a>
+                            <span style="float: right">9890 </span>
+                        </li>
+                        
+                        <li>
+                            <img width="15" align="absmiddle" src="/css/skin/music.png">
+                            <a href="/media/play-nhu-giot-suong-dem/" title="Như Giọt Sương Đêm">Như Giọt Sương Đêm  </a>
+                            <span style="float: right">11180 </span>
+                        </li>
+                        
+                        <li style="border: none; padding-bottom: 0px;">
+                            <div align="right"><a href="/media/am-nhac/">[ Xem tất cả ]</a></div>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="box-right tudien">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left" title="Từ điển phật giáo" alt="Từ điển phật giáo" />
+            <a href="/tu-dien-phat-giao/" title="Từ điển phật giáo"><span>Từ điển phật giáo</span></a>
+        </h2>
+        <div class="content">
+            <ul>
+                
+                <li><a href="/tu-dien-phat-giao/trich-luc-tu-ngu-phat-hoc-quyen-thuong/" title="Trích lục từ ngữ Phật học Quyển Thượng">Trích lục từ ngữ Phật học Quyển Thượng</a></li>
+                
+                <li><a href="/tu-dien-phat-giao/trich-luc-tu-ngu-phat-hoc-quyen-ha/" title="Trích lục từ ngữ Phật học Quyển Hạ">Trích lục từ ngữ Phật học Quyển Hạ</a></li>
+                
+                <li><a href="/tu-dien-phat-giao/tu-dien-phap-so-tam-tang/" title="Từ Điển Pháp Số Tam Tạng">Từ Điển Pháp Số Tam Tạng</a></li>
+                
+                <li><a href="/tu-dien-phat-giao/tu-dien-bach-khoa-phat-giao-viet-nam/" title="Từ Điển Bách Khoa Phật Giáo Việt Nam">Từ Điển Bách Khoa Phật Giáo Việt Nam</a></li>
+                
+                <li><a href="/tu-dien-phat-giao/tu-dien-thien-tong-han-viet/" title="Từ Điển Thiền Tông Hán Việt">Từ Điển Thiền Tông Hán Việt</a></li>
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="box-right loivang">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left" title="Lời vàng ý ngọc" />
+            <a href="/loi-vang-y-ngoc/" title="Lời vàng ý ngọc"><span>lời vàng ý ngọc</span></a>
+        </h2>
+        <div class="content">
+            <ul>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-10-dieu-sau-la-cot-loi-hanh-phuc/" title="10 điều sau là cốt lõi hạnh phúc">10 điều sau là cốt lõi hạnh phúc</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-loi-hay-y-dep/" title="Lời hay ý đẹp">Lời hay ý đẹp</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-hay-ve-cuoc-song/" title="NHỮNG CÂU NÓI HAY VỀ CUỘC SỐNG">NHỮNG CÂU NÓI HAY VỀ CUỘC SỐNG</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-9/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (9)">Những Câu nói không hay nhưng đủ để suy ngẫm (9)</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-8/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (8)">Những Câu nói không hay nhưng đủ để suy ngẫm (8)</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-7/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (7)">Những Câu nói không hay nhưng đủ để suy ngẫm (7)</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-6/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (6)">Những Câu nói không hay nhưng đủ để suy ngẫm (6)</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-5/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (5)">Những Câu nói không hay nhưng đủ để suy ngẫm (5)</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-4/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (4)">Những Câu nói không hay nhưng đủ để suy ngẫm (4)</a></li>
+                
+                <li><a href="/loi-vang-y-ngoc/chi-tiet-nhung-cau-noi-khong-hay-nhung-du-de-suy-ngam-3/" title="Những Câu nói không hay nhưng đủ để suy ngẫm (3)">Những Câu nói không hay nhưng đủ để suy ngẫm (3)</a></li>
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="box-right">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left" title="Thư viện sách" />
+            <a href="/thu-vien-sach/" title="Thư viện sách"><span>thư viện sách</span></a>
+        </h2>
+        <div class="content">
+            
+            <div class="box_library">
+                <a title="Chánh Pháp Nhãn Tạng" href="/thu-vien-sach/chi-tiet-chanh-phap-nhan-tang/">
+                    <div class="pict">
+                            <img src="/Images/News/chuaadida_thumb_10282017_052846.jpg" />
+                       </div>                   
+                    <strong>Chánh Pháp Nhãn Tạng</strong></a>
+            </div>
+            
+            <div class="box_library">
+                <a title="Chư Thiền Đức Ấn Độ thời Sơ Kỳ và Trung Hoa đến Thời Lâm Tế Nghĩa Huyền (song ngữ Việt-Anh)" href="/thu-vien-sach/chi-tiet-chu-thien-duc-an-do-thoi-so-ky-va-trung-hoa-den-thoi-lam-te-nghia-huyen-song-ngu-viet-anh/">
+                    <div class="pict">
+                            <img src="/Images/News/chuaadida_thumb_31492017_034922.jpg" />
+                       </div>                   
+                    <strong>Chư Thiền Đức Ấn Độ...</strong></a>
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="box-right ">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left" title="" alt="" />
+            <a href="#" title="" alt=""><span>lịch âm dương</span></a>
+        </h2>
+        <div class="content">
+            <script type="text/javascript" language="JavaScript" src="/js/amlich-hnd.js"></script>
+            <script type="text/javascript">
+                function viewSelectedMonth() {
+                    setOutputSize("small");
+                    var s = printSelectedMonth();
+                    document.open();
+                    document.writeln(s);
+                    document.close();
+                }
+                viewSelectedMonth();
+            </script>
+        </div>
+    </div>   
+    
+    <div class="box-right">
+        <a href="123" target="_blank">
+        <img src="/Images/Partner/chuaadida_empty.jpg" style="max-width:100% !important" /></a>
+    </div>
+    <div class="box-right">
+        <h2 class="title">
+            <img src="/css/skin/icon-title.png" align="left" title="" alt="" />
+            <a href="/truyen-hinh-phat-giao/" title="Kênh truyền hình phật giáo"><span>Kênh truyền hình phật giáo</span></a>
+        </h2>
+        <div class="content kenhtruyenhinh">
+            <table width="100%" cellpadding="5" cellspacing="0" border="0">
+                <tr>
+                    <td><a href="/nhac-phat-giao/" title="Nhạc Phật Giáo">
+                        <img width="" src="/css/skin/radio.gif" alt="Nhạc Phật Giáo" style="width: 50px" /></a></td>
+                    <td><a href="/truyen-hinh-srisambodhiuk/" title="Truyền hình Srisambodhiuk">
+                        <img style="max-width: 106px; max-height: 40px;" src="/css/skin/zee-logo-show.png" alt="Truyền hình Srisambodhiuk" /></a></td>
+                    <td><a href="/truyen-hinh-sen-viet/" title="Truyền hình Sen Việt">
+                        <img width="" src="/css/skin/senviettv.png" alt="Truyền hình Sen Việt" /></a></td>
+                </tr>
+                <tr>
+                    <td><a href="/truyen-hinh-dahamgaganatv/" title="Truyền hình DahamgaganaTv">
+                        <img style="max-width: 106px; max-height: 40px;" src="/css/skin/DahamgaganaTv.png" alt="Truyền hình DahamgaganaTv" /></a></td>
+                    <td><a href="/truyen-hinh-shraddha/" title="Truyền hình Shraddha">
+                        <img style="max-width: 106px; max-height: 40px;" src="/css/skin/logo-sh.png" alt="Truyền hình Shraddha" /></a></td>
+                    <td><a href="/truyen-hinh-dhamma/" title="Dhamma and Meditation Internet TV">
+                        <img style="max-width: 106px; max-height: 40px;" src="/css/skin/dmc.png" alt="Dhamma and Meditation Internet TV" /></a></td>
+                </tr>
+            </table>
+        </div>
+    </div>                  
+</div>                
+            </div>
+        </div>
+    </div>
+    
+     
+    <div id="footer">
+    	<div class="container">
+        	<div class="content">
+            	52 Bareena street, Canley Vale N.S.W 2166 Australia  - Tel: <strong><a href="tel:(+02) 87046317">(+02) 87046317</a> </strong><br />
+                Email:  <a href="mailto:chuaadida1@gmail.com - chuaadida@ymail.com">chuaadida1@gmail.com - chuaadida@ymail.com</a> <bR />
+                Copyright © 2014 <strong>Chùa A Di Đà</strong>. All Rights Reserved. Powered by <a href="http://bizmac.com.vn" target="_blank" title="Thiết kế website chuyên nghiệp"><strong>BizMaC</strong></a>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+    <script src="/js/bizmac/bzAjax.js"></script>
+<script type="text/javascript" src="/css/js/responsive.js"></script>
+    <script>
+        //(function () {
+        //    var images = [];
+        //    $("img").each(function () {
+        //        var src = $(this).attr('src');
+        //        $(this).attr('src', 'http://chuaadida.com' + src);
+        //    })           
+        //})()
+</script>   <script>
+                $("#txtKeySearch").keypress(function (event) {
+                    if (event.which == 13 || event.keyCode == 13)
+                        fSearch('txtKeySearch');
+                });
+                function fSearch(obj) {
+                    var _key = $('#' + obj).val();
+                    if (_key != '')
+                        window.location = '/tim-kiem/q?key=' + _key;
+                }
+    </script> 
+</body>
+</html>
+
