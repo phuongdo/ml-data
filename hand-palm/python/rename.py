@@ -2,7 +2,7 @@ import os
 import os
 import sys
 
-directoryName = "train-pos"
+directoryName = "test-pos-case-2"
 filePath = os.path.abspath(directoryName)
 filePathWithSlash = filePath + "/"
 for counter, filename in enumerate(os.listdir(directoryName)):
