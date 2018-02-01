@@ -3,6 +3,21 @@
 
 ## Benchmark
 
+
+NEW DATASET
+
+POS: 88, NEG: 164
+
+| Date | Version | Sensitivity | Specificity |   Accuracy  |  Detail |
+| -----| ------- | ----------- | ----------- | ----------- | ------- |
+|  01/02/2018  | v6_VGG19  | `60.87%` | `61.90%` |  `61.36%`  | [click](benchmarks/benchmark_06.md) |
+
+
+
+
+
+
+ OLD DATASET
 | Date | Version | Sensitivity | Specificity |   Accuracy  |  Detail |
 | -----| ------- | ----------- | ----------- | ----------- | ------- |
 |  22/01/2018  | v1  | `60.87%` | `61.90%` |  `61.36%`  | [click](benchmarks/benchmark_01.md) |
