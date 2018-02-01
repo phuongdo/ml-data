@@ -14,11 +14,9 @@ POS: 88, NEG: 164
 
 
 
-
-
-
  OLD DATASET
-| Date | Version | Sensitivity | Specificity |   Accuracy  |  Detail |
+
+ | Date | Version | Sensitivity | Specificity |   Accuracy  |  Detail |
 | -----| ------- | ----------- | ----------- | ----------- | ------- |
 |  22/01/2018  | v1  | `60.87%` | `61.90%` |  `61.36%`  | [click](benchmarks/benchmark_01.md) |
 |  23/01/2018  | v2  | `76.47%` | `84.06%` |  `82.56%`  | [click](benchmarks/benchmark_02.md) |
